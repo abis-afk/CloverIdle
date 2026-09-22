@@ -5,6 +5,7 @@ site:
     - type: space
       key: clover-idle-story
       title: CloverIdlestory Docs
+      default: true
       path: ./
       content:
         directory: ./
