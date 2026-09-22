@@ -26,6 +26,7 @@
 | [🐾 ระบบสัตว์เลี้ยง & AutoLoot](02-systems/pet-system.md) | ระบบสัตว์เลี้ยง, สกิลดูดของทั้งแผนที่ และสกิลทั้งหมด |
 | [🛡️ ระบบ Merchant Blessing](02-systems/merchant-blessing.md) | สิทธิประโยชน์และคุณสมบัติของ Merchant Blessing (ID: 5190016) |
 | [⚔️ สายอาชีพทั้งหมด 50 อาชีพ](03-progression/classes-overview.md) | ภาพรวมอาชีพทั้ง 5 สาย พร้อมแนวทางจัดปุ่มบอท 1-4 |
+| [🗺️ คู่มือเก็บเลเวล 1-250 (Maple Guide)](03-progression/leveling-guide-1-250.md) | เส้นทางเก็บเลเวล 1-250 ด้วยระบบเมเปิ้ลไกด์ในเกม และแมพฟาร์มบอทที่ดีที่สุด |
 | [💎 การพัฒนาตัวละคร & ตีบวก](03-progression/equipment-upgrade.md) | ระบบ Star Force, Potential, Cube และ Union/Legion |
 | [🏰 ระบบบอส & ร้านค้าด่วน](04-content/quick-move-and-shops.md) | เมนู Quick Move (`@qm`), ตรวจสอบบอส (`@bossinfo`) และการขายของ (`@sale`) |
 

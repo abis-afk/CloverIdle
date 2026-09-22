@@ -21,6 +21,7 @@
   * [⚓ สายโจรสลัด (10 อาชีพ)](03-progression/classes/pirates.md)
 
 ## 💎 การพัฒนาตัวละคร (Progression)
+* [🗺️ คู่มือเก็บเลเวล 1-250 (Maple Guide)](03-progression/leveling-guide-1-250.md)
 * [ระบบ Union & Legion](03-progression/growth-and-union.md)
 * [ระบบตีบวก & พัฒนาอุปกรณ์](03-progression/equipment-upgrade.md)
 
