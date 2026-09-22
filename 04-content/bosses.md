@@ -13,6 +13,7 @@
   * รอบการรีเซ็ตบอส:
     * **บอสประจำวัน (Daily Bosses):** รีเซ็ตทุกเที่ยงคืน (00:00 น.) ของทุกวัน
     * **บอสประจำสัปดาห์ (Weekly Bosses):** รีเซ็ตทุกวันพฤหัสบดี เวลา 00:00 น.
+    * **บอสประจำเดือน (Monthly Boss):** Black Mage รีเซ็ตทุกวันที่ 1 ของเดือน เวลา 00:00 น.
 * **ระบบวาร์ปหน้าห้องบอส:** สามารถเปิดระบบ **Maple Guide `[ U ]`** หรือใช้ปุ่ม Boss UI บนหน้าจอ เพื่อเทเลพอร์ตไปยังหน้าห้องบอสได้ทันทีฟรี!
 
 ---
@@ -21,30 +22,32 @@
 
 | ลำดับขั้นบอส | รายชื่อบอส & ความยาก | เลเวลแนะนำ | รอบรีเซ็ต | ไอเทมดรอปเด่นที่สำคัญ |
 | :--- | :--- | :---: | :---: | :--- |
-| **🔰 บอสประจำวัน (Daily)** | **Normal Zakum** | 100+ | รายวัน | Aquatic Letter Eye, Condensed Power Crystal, Meso |
+| **🔰 บอสประจำวัน (Daily Bosses)** | **Normal Zakum** | 100+ | รายวัน | Aquatic Letter Eye, Condensed Power Crystal, Meso |
 | | **Normal / Chaos Horntail** | 130+ | รายวัน | Silver Blossom Ring, Dea Sidus Earring, Horntail Necklace *(Chaos ดรอป Chaos Horntail Necklace)* |
-| | **Normal / Hard Hilla** | 120+ | รายวัน | สัตว์เลี้ยง Dark Soul Pet, Necro Set, กล่องหิน Soul |
-| | **Normal Root Abyss (4 บอส)** | 130+ | รายวัน | ชิ้นส่วนเหรียญ Yggdrasil Rune, ปลดล็อคโหมด Chaos |
-| | **Normal Pink Bean** | 160+ | รายวัน | Golden Clover Belt, Pink Holy Cup, Black Bean Ring |
+| | **Easy / Normal / Hard Hilla** | 120+ | รายวัน | สัตว์เลี้ยง Dark Soul Pet *(ดรอปจาก Hard)*, Necro Set, กล่องหิน Soul |
+| | **Normal Root Abyss (4 บอส)** | 130+ | รายวัน | เหรียญ Yggdrasil Rune, ปลดล็อคเงื่อนไขเข้าสู่โหมด Chaos |
+| | **Easy / Normal / Hard Von Leon** | 130+ | รายวัน | Von Leon Set, เครื่องประดับ Ifia (สะสม 10 ชิ้นแลกเป็น **Noble Ifia's Ring**) |
+| | **Normal / Chaos Pink Bean** | 160+ | รายวัน / สัปดาห์ | Golden Clover Belt, Pink Holy Cup *(Chaos ดรอป **Black Bean Ring**)* |
 | | **Easy / Normal Arkarium** | 140+ | รายวัน | Mechanator Pendant, **Dominator Pendant** *(ดรอปเฉพาะ Normal เท่านั้น)*, Primal Essence |
-| | **Easy / Normal Magnus** | 130+ | รายวัน | Royal Black Metal Shoulder, Crystal Ventus Badge *(ดรอปจาก Normal)* |
+| | **Easy / Normal Magnus** | 130+ | รายวัน | Royal Black Metal Shoulder, Crystal Ventus Badge *(ดรอปจาก Normal ขึ้นไป)*, Nova Set |
+| | **Easy / Normal Cygnus** | 140+ | สัปดาห์ | Dream Fragments, เซ็ตเกราะและอาวุธ Empress (Lv. 140) |
 | | **Normal Papulatus** | 155+ | รายวัน | Papulatus Clock Chair, เหรียญ Meso, ใบอัปเกรด |
-| **⚔️ บอสสัปดาห์ระดับกลาง (Weekly)** | **Chaos Zakum** | 180+ | สัปดาห์ | Chaos Zakum Helmet, Enraged Zakum Belt, เม็ดเงินก้อนโต |
+| **⚔️ บอสสัปดาห์ระดับกลาง (Weekly Bosses)** | **Chaos Zakum** | 180+ | สัปดาห์ | Chaos Zakum Helmet, Enraged Zakum Belt, เม็ดเงินก้อนโต |
 | | **Chaos Root Abyss (CRA 4 บอส)** | 180+ | สัปดาห์ | **ชิ้นส่วน 4 บอสแลกเซ็ต Fafnir (CRA Lv.150)**, คริสตัลบอส Meso |
-| | **Hard Magnus** | 190+ | สัปดาห์ | เหรียญ Magnus Coin, ผ้าคลุม Tyrant Cloak, ปลอกแขน |
-| | **Chaos Papulatus** | 200+ | สัปดาห์ | **Papulatus Mark (หน้ากากเวล 145 ดรอปเฉพาะ Chaos)**, พวงกุญแจบอส |
+| | **Hard Magnus** | 190+ | สัปดาห์ | เหรียญ Magnus Coin, **ผ้าคลุม Tyrant Cloak**, เข็มขัด Tyrant Belt |
+| | **Chaos Papulatus** | 200+ | สัปดาห์ | **Papulatus Mark (หน้ากากเวล 145 ดรอปเฉพาะ Chaos เท่านั้น)** |
 | | **Guardian Angel Slime (N/C)** | 210+ | สัปดาห์ | **Guardian Angel Ring (แหวนเวล 160)** |
 | | **Lotus (Normal)** | 210+ | สัปดาห์ | Extraordinary Energy Core Grade S ➔ **แลกเซ็ต AbsoLab (สาย Haven)** |
 | | **Damien (Normal)** | 210+ | สัปดาห์ | Twisted Stigma Energy Piece ➔ **แลกเซ็ต AbsoLab (สาย World Tree)** |
-| **🌌 บอสระดับสูง (End-Game)** | **Lotus (Hard)** | 230+ | สัปดาห์ | **Berserked (หน้ากากใบหน้าเวล 160 Pitched Boss)** |
-| | **Damien (Hard)** | 230+ | สัปดาห์ | **Magic Eyepatch (ประดับตาเวล 160 Pitched Boss)** |
+| **🌌 บอสระดับสูง (End-Game Bosses)** | **Lotus (Hard)** | 230+ | สัปดาห์ | **Berserked (หน้ากากใบหน้าเวล 160 - Pitched Boss)** |
+| | **Damien (Hard)** | 230+ | สัปดาห์ | **Magic Eyepatch (ประดับตาเวล 160 - Pitched Boss)** |
 | | **Lucid (Normal / Hard)** | 235+ | สัปดาห์ | Phantasma Shards ➔ **แลกเซ็ต Arcane Umbra**, **Dreamy Belt (เข็มขัดเวล 200)** |
 | | **Will (Normal / Hard)** | 235+ | สัปดาห์ | Arachno Shards ➔ **แลกเซ็ต Arcane Umbra**, **Cursed Spellbook (กระเป๋าเวล 160)** |
-| | **Gloom (Chaos)** | 245+ | สัปดาห์ | **Endless Terror (แหวนเวล 200 Pitched Boss)** |
-| | **Verus Hilla (Hard)** | 250+ | สัปดาห์ | **Source of Suffering (สร้อยเวล 200 Pitched Boss)** |
-| | **Darknell (Hard)** | 255+ | สัปดาห์ | **Commanding Force Earring (ต่างหูเวล 200 Pitched Boss)** |
+| | **Gloom (Chaos)** | 245+ | สัปดาห์ | **Endless Terror (แหวนเวล 200 - Pitched Boss)** |
+| | **Verus Hilla (Hard)** | 250+ | สัปดาห์ | **Source of Suffering (สร้อยคอเวล 200 - Pitched Boss)** |
+| | **Darknell (Hard)** | 255+ | สัปดาห์ | **Commanding Force Earring (ต่างหูเวล 200 - Pitched Boss)** |
 | | **Black Mage (บอสแห่งความมืด)** | 255+ | เดือนละ 1 ครั้ง | **Genesis Weapon (อาวุธเทพปลดผนึก)**, **Genesis Badge (ตราเหรียญเวล 200)** |
-| | **Chosen Seren, Kalos, Kaling** | 265+ | สัปดาห์ | **Mitra's Rage (ตรา Emblem เวล 200 จาก Seren)**, ชิ้นส่วนเซ็ต Ether |
+| | **Chosen Seren (Hard)** | 265+ | สัปดาห์ | **Mitra's Rage (ตรา Emblem เวล 200 - Pitched Boss)** |
 
 ---
 
@@ -52,13 +55,14 @@
 
 เซ็ตประดับบอส (Boss Accessory Set) คืออุปกรณ์ประดับหลักสำหรับผู้เล่นตั้งแต่ระดับเริ่มต้นไปจนถึงระดับกลาง-สูง หาง่าย มีสเตตัสโบนัสสูง และมอบผลลัพธ์ของเซ็ตที่คุ้มค่ามาก
 
-### 3.1 ตารางไอเทมประดับบอสทั้ง 13 ชิ้น พร้อมเลเวลสวมใส่
+### 3.1 ตารางไอเทมประดับบอสทั้ง 14 ชิ้น พร้อมเลเวลสวมใส่
 
 | ภาพไอคอน | ชื่อไอเทมประดับ | ตำแหน่งสวมใส่ | เลเวลที่ต้องการ (Req Lv) | บอสที่ดรอปไอเทม | จุดเด่นและคำแนะนำ |
 | :---: | :--- | :---: | :---: | :--- | :--- |
 | <img src="../assets/bosses/boss_aquatic_letter_eye.png" width="30" height="30" alt="Aquatic Letter Eye" /> | **Aquatic Letter Eye Accessory** | หน้ากากตา (Eye) | **Lv. 100** | Normal / Chaos Zakum | ประดับตาชิ้นแรกของทุกคน สเตตัสคุ้มค่า |
 | <img src="../assets/bosses/boss_condensed_power_crystal.png" width="30" height="30" alt="Condensed Power Crystal" /> | **Condensed Power Crystal** | ประดับใบหน้า (Face) | **Lv. 110** | Normal / Chaos Zakum | ประดับหน้ายอดนิยม ส่อง Potential ติด 6-9% ง่าย |
 | <img src="../assets/bosses/boss_silver_blossom_ring.png" width="30" height="30" alt="Silver Blossom Ring" /> | **Silver Blossom Ring** | แหวน (Ring) | **Lv. 110** | Horntail (ทุกระดับ) | แหวนสเตตัสเริ่มต้น ตีบวกดาวและศักยภาพได้ |
+| <img src="../assets/bosses/boss_noble_ifias_ring.png" width="30" height="30" alt="Noble Ifia's Ring" /> | **Noble Ifia's Ring** | แหวน (Ring) | **Lv. 120** | Von Leon / Rose Garden | รวมเครื่องประดับ Ifia 10 ชิ้นแลกกับ NPC Ifia ตีบวกได้ถึง 15+ ดาว |
 | <img src="../assets/bosses/boss_royal_black_metal_shoulder.png" width="30" height="30" alt="Royal Black Metal Shoulder" /> | **Royal Black Metal Shoulder** | หัวไหล่ (Shoulder) | **Lv. 120** | Magnus (ทุกระดับ) | หัวไหล่มาตรฐานสำหรับเก็บเซ็ตโบนัส |
 | <img src="../assets/bosses/boss_mechanator_pendant.png" width="30" height="30" alt="Mechanator Pendant" /> | **Mechanator Pendant** | สร้อยคอ (Pendant) | **Lv. 120** | Arkarium (Easy / Normal) | สร้อยเส้นรองสำหรับใส่คู่กับ Dominator หรือ Horntail |
 | <img src="../assets/bosses/boss_chaos_horntail_necklace.png" width="30" height="30" alt="Chaos Horntail Necklace" /> | **Chaos Horntail Necklace** | สร้อยคอ (Pendant) | **Lv. 120** | **Chaos Horntail เท่านั้น** | มี 3 Upgrade Slots ใช้ไข่ Dragon Egg บวก ATT ได้ |
@@ -68,7 +72,7 @@
 | <img src="../assets/bosses/boss_pink_holy_cup.png" width="30" height="30" alt="Pink Holy Cup" /> | **Pink Holy Cup** | กระเป๋าพกพา (Pocket) | **Lv. 140** | Pink Bean (Normal / Chaos) | ใส่ในช่อง Pocket ได้รับ All Stat และ ATT สูง |
 | <img src="../assets/bosses/boss_dominator_pendant.png" width="30" height="30" alt="Dominator Pendant" /> | **Dominator Pendant** | สร้อยคอ (Pendant) | **Lv. 140** | **Normal Arkarium เท่านั้น** | **สร้อยคอที่ดีที่สุดในเซ็ต!** (Easy ไม่ดรอป) เป็น Boss Advantage ออพชั่นไฟสูง |
 | <img src="../assets/bosses/boss_papulatus_mark.png" width="30" height="30" alt="Papulatus Mark" /> | **Papulatus Mark** | หน้ากากตา (Eye) | **Lv. 145** | **Chaos Papulatus เท่านั้น** | **ประดับตาเทพประจำเซ็ต!** (Normal ไม่ดรอป) ตีได้ถึง 20+ ดาว |
-| <img src="../assets/bosses/boss_guardian_angel_ring.png" width="30" height="30" alt="Guardian Angel Ring" /> | **Guardian Angel Ring** | แหวน (Ring) | **Lv. 160** | Guardian Angel Slime | นับเป็นทั้ง Boss Accessory Set หรือ Dawn Boss Set |
+| <img src="../assets/bosses/boss_guardian_angel_ring.png" width="30" height="30" alt="Guardian Angel Ring" /> | **Guardian Angel Ring** | แหวน (Ring) | **Lv. 160** | Guardian Angel Slime | แหวนเลเวลสูง สามารถสวมใส่ร่วมกับเซ็ตได้ |
 
 ---
 
@@ -116,12 +120,12 @@
 เซ็ต Fafnir (CRA) ประกอบด้วย หมวก, เสื้อ, กางเกง และอาวุธประจำอาชีพ เป็นเซ็ตมาตรฐานยอดนิยมที่สุดในเกม
 
 * **ชิ้นส่วนที่ใช้แลก (ดรอปจากบอส CRA):**
-  * **Piece of Von Bon:** ใช้สะสมแลก **หมวก CRA (Royal Hat)**
-  * **Piece of Pierre:** ใช้สะสมแลก **กางเกง CRA (Trixter Pants)**
-  * **Piece of Crimson Queen:** ใช้สะสมแลก **เสื้อ CRA (Eagle Eye Shirt)**
-  * **Piece of Vellum:** ใช้สะสมแลก **อาวุธ Fafnir Weapon**
+  * **Piece of Von Bon:** ใช้ **5 ชิ้น** แลก **หมวก CRA (Royal Hat)**
+  * **Piece of Pierre:** ใช้ **5 ชิ้น** แลก **กางเกง CRA (Trixter Pants)**
+  * **Piece of Crimson Queen:** ใช้ **5 ชิ้น** แลก **เสื้อ CRA (Eagle Eye Shirt)**
+  * **Piece of Vellum:** ใช้ **15 ชิ้น** แลก **อาวุธ Fafnir Weapon**
 * **วิธีและขั้นตอนการแลก:**
-  1. สะสมชิ้นส่วนของบอสแต่ละตัวให้ครบตามจำนวนที่ระบบกำหนด
+  1. สะสมชิ้นส่วนของบอสแต่ละตัวให้ครบตามจำนวนที่กำหนด
   2. เปิดช่องเก็บของ (Inventory `[ I ]`) ในหมวด **USE** หรือ **ETC**
   3. **ดับเบิ้ลคลิกที่ชิ้นส่วนบอสชิ้นนั้นๆ** (หรือคุยกับ NPC ในแผนที่ Colossus Root Abyss)
   4. หน้าต่างระบบจะแสดงรายการอาวุธหรือชุดเกราะตามสายอาชีพของคุณ สามารถคลิกเลือกชิ้นที่ต้องการเพื่อรับไอเทมได้ทันที!
@@ -129,15 +133,15 @@
 ---
 
 ### ⚙️ 5.2 เซ็ต AbsoLab (Lv. 160)
-อุปกรณ์เซ็ต AbsoLab (หมวก, เสื้อ, ถุงมือ, รองเท้า, ผ้าคลุม, หัวไหล่, อาวุธ) สามารถหาได้ผ่าน 2 เส้นทาง:
+อุปกรณ์เซ็ต AbsoLab (หมวก, ถุงมือ, รองเท้า, ผ้าคลุม, หัวไหล่, อาวุธ) สามารถหาได้ผ่าน 2 เส้นทาง:
 
 #### 📍 เส้นทางที่ 1: Scrapyard (Haven) - สายบอส Lotus
 1. **วัตถุดิบที่ต้องใช้:**
    * **Diffusion-Line Energy Core Grade A:** ได้รับจากการทำเควสต์ประจำสัปดาห์ในเมือง Haven / Scrapyard
    * **Extraordinary Energy Core Grade S:** ดรอปจากการกำจัดบอส **Lotus** (Normal หรือ Hard)
 2. **ขั้นตอนการแลก:**
-   * นำวัตถุดิบทั้งสองชิ้นไปแลกเป็น <img src="../assets/bosses/token_absolab_coin.png" width="20" height="20" alt="AbsoLab Coin" /> **AbsoLab Coin** กับ NPC **One-Eye** ในแผนที่ Haven
-   * ใช้ **AbsoLab Coin 2 เหรียญ** เพื่อแลกซื้อชิ้นส่วนชุดเกราะ (ถุงมือ, รองเท้า, ผ้าคลุม)
+   * นำ **Grade S 1 ชิ้น + Grade A 20 ชิ้น** ไปผสมเป็น <img src="../assets/bosses/token_absolab_coin.png" width="20" height="20" alt="AbsoLab Coin" /> **AbsoLab Coin** 1 เหรียญ กับ NPC **One-Eye** ในแผนที่ Haven
+   * ใช้ **AbsoLab Coin 2 เหรียญ** เพื่อแลกซื้อชิ้นส่วนชุดเกราะ (ถุงมือ, รองเท้า, ผ้าคลุม, หัวไหล่)
    * ใช้ **AbsoLab Coin 5 เหรียญ** เพื่อแลกซื้อ **อาวุธ AbsoLab Weapon**
 
 #### 📍 เส้นทางที่ 2: Dark World Tree (Deserted Camp) - สายบอส Damien
@@ -145,7 +149,7 @@
    * **Faint Stigma Spirit Stone:** ได้รับจากการทำเควสต์ประจำสัปดาห์ใน Dark World Tree (Deserted Camp)
    * **Twisted Stigma Energy Piece:** ดรอปจากการกำจัดบอส **Damien** (Normal หรือ Hard)
 2. **ขั้นตอนการแลก:**
-   * นำวัตถุดิบไปแลกเป็น <img src="../assets/bosses/token_stigma_coin.png" width="20" height="20" alt="Stigma Coin" /> **Stigma Coin** กับ NPC **Three-Doors** หรือ **Kanto** ใน Abandoned Camp
+   * นำ **Stigma Piece 1 ชิ้น + Spirit Stone 20 ชิ้น** ไปผสมเป็น <img src="../assets/bosses/token_stigma_coin.png" width="20" height="20" alt="Stigma Coin" /> **Stigma Coin** 1 เหรียญ กับ NPC **Three-Doors** หรือ **Kanto** ใน Abandoned Camp
    * อัตราการแลก: 2 เหรียญสำหรับชุดเกราะ และ 5 เหรียญสำหรับอาวุธ
 
 ---
@@ -158,14 +162,14 @@
   * **Butterfly Droplet Stone:** ดรอปจากการฟาร์มมอนสเตอร์ในแผนที่ Lachelein, Arcana, และ Morass
   * **Phantasma Shard:** ดรอปจากการกำจัดบอส **Lucid** (Normal หรือ Hard)
 * **NPC ที่รับแลก:** NPC **Dambrella** ในเมือง Lachelein
-* **เหรียญที่ได้รับ:** <img src="../assets/bosses/token_phantasma_coin.png" width="20" height="20" alt="Phantasma Coin" /> **Phantasma Coin**
+* **อัตราแลกเหรียญ:** นำ **Phantasma Shard 1 ชิ้น + Butterfly Droplet 9 ชิ้น** ➔ แลกเป็น <img src="../assets/bosses/token_phantasma_coin.png" width="20" height="20" alt="Phantasma Coin" /> **Phantasma Coin** 1 เหรียญ
 
 #### 📍 เส้นทางที่ 2: Esfera (สายบอส Will)
 * **วัตถุดิบ:**
   * **Stone Cobweb Droplet:** ดรอปจากการฟาร์มมอนสเตอร์ในแผนที่ Esfera
   * **Arachno Shard:** ดรอปจากการกำจัดบอส **Will** (Normal หรือ Hard)
 * **NPC ที่รับแลก:** NPC **Piam** ในเมือง Esfera
-* **เหรียญที่ได้รับ:** <img src="../assets/bosses/token_arachno_coin.png" width="20" height="20" alt="Arachno Coin" /> **Arachno Coin**
+* **อัตราแลกเหรียญ:** นำ **Arachno Shard 1 ชิ้น + Cobweb Droplet 9 ชิ้น** ➔ แลกเป็น <img src="../assets/bosses/token_arachno_coin.png" width="20" height="20" alt="Arachno Coin" /> **Arachno Coin** 1 เหรียญ
 
 #### 🛒 อัตราการแลกอุปกรณ์ Arcane Umbra:
 * **ชุดเกราะ (หมวก, เสื้อสูท, ถุงมือ, รองเท้า, ผ้าคลุม, หัวไหล่):** ใช้ **12 เหรียญ** ต่อชิ้น
