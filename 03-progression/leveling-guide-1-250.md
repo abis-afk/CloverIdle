@@ -130,10 +130,10 @@ Lv. 245-250  : Moonbridge -> Void Current 3 (ARC 760)
 
 ## 💡 เทคนิคระดับโปรสำหรับสายฟาร์มบอท (`@bot`) ใน Clover Idle
 
-1. **เปิดใช้งาน [Merchant Blessing](../02-systems/merchant-blessing.md) (Item ID: `5190016`):**
+1. **เปิดใช้งาน <img src="../assets/items/5190016.png" width="18" height="18" alt="Merchant Blessing" /> [Merchant Blessing](../02-systems/merchant-blessing.md):**
    * ได้รับโบนัส **EXP +50%**, **Drop Rate +50%**, **Meso +50%**
    * ปลดล็อคเงื่อนไขในการเปิดใช้งานบอท `@bot` / `@autoplay`
-2. **ติดตั้งสัตว์เลี้ยงดูดของทั้งแมพ ([Map-Wide AutoLoot](../02-systems/pet-system.md) - ID: `5190015`):**
+2. **ติดตั้งสัตว์เลี้ยงดูดของทั้งแมพ (<img src="../assets/items/5190015.png" width="18" height="18" alt="AutoLoot" /> [Map-Wide AutoLoot](../02-systems/pet-system.md)):**
    * เก็บไอเทมและเงิน Meso ทั่วทั้งแมพทันทีที่มอนสเตอร์ตาย ตัวละครไม่ต้องเสียเวลาเดินเก็บของ
 3. **จัดสกิลลงปุ่มลัดช่อง 1 ถึง 4 ตาม [คู่มือแนะนำ 50 อาชีพ](../03-progression/classes-overview.md):**
    * วางสกิลกวาดแมพหลักไว้ที่ช่อง `[1]`
