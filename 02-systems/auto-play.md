@@ -12,7 +12,7 @@
 
 ## ⚡ คำสั่งเปิด / ปิด ระบบ
 
-* **คำสั่งเปิด/ปิด:** พิมพ์ **`@autoplay`** หรือ **`@bot`** (หรือ `@aa`) ในช่องแชท
+* **คำสั่งเปิด/ปิด:** พิมพ์ **`@bot`** หรือ **`@autoplay`** ในช่องแชท
 * เมื่อเปิดใช้งาน ระบบจะแจ้งข้อความยืนยัน:
   ```text
   [Auto Play] ON - uses supported actions on shortcuts 1-4; bound Attack is fallback; guarded blink pursuit enabled.

@@ -1,24 +1,14 @@
 @echo off
-chcp 65001 >nul
-cd /d "%~dp0"
-title Clover Idle Story - Git Push
-
+cd /d "C:\Users\aes_c\Documents\CloverIdle"
 echo ===================================================
-echo   🍀 กำลังอัปโหลดคู่มือ Clover Idle ขึ้น GitHub...
+echo   Uploading Clover Idle Story Docs to GitHub...
 echo ===================================================
 echo.
-
-git push -u origin main
-
+git add .
+git commit -m "Update docs: strictly use @bot, slots 1-4, Merchant Blessing requirement"
+git push origin main
 echo.
-if %errorlevel% == 0 (
-    echo ===================================================
-    echo   ✅ อัปโหลดสำเร็จเรียบร้อยแล้ว!
-    echo ===================================================
-) else (
-    echo ===================================================
-    echo   ❌ พบข้อผิดพลาดในการเชื่อมต่อ
-    echo ===================================================
-)
-echo.
+echo ===================================================
+echo   Sync Finished!
+echo ===================================================
 pause
