@@ -58,16 +58,9 @@ flowchart LR
 | <img src="../.gitbook/assets/01712006.png" alt="" data-size="original"> | **Arcane Symbol: Esfera**            | ทะเลจุดเริ่มต้นเอสเฟรา (Esfera)            |         Lv. 235        |       +220 ARC      |           +2,200          |
 |                              **รวม 6 ชิ้น**                             | **ติดตั้งพร้อมกันทั้ง 6 ชิ้น**       | **Arcane River ครบเซ็ต**                   |      **Lv. 235+**      |  **🔥 +1,320 ARC**  |  **💎 +13,200 Main Stat** |
 
-### 🪐 สัญลักษณ์ศักดิ์สิทธิ์ประจำดินแดน Grandis (Sacred Symbols - Lv. 260+)
+_(หมายเหตุ: สำหรับผู้เล่นเลเวล 260+ ขึ้นไป จะเข้าสู่ทวีป Grandis และเริ่มสะสม **Sacred Symbol** เช่น Cernium  และ Arcus  ต่อไป)_
 
-สำหรับผู้เล่นระดับสูง (เลเวล 260 ขึ้นไป) จะก้าวข้ามผ่าน Arcane River เข้าสู่ทวีป **Grandis** และเริ่มสะสมพลังศักดิ์สิทธิ์ **Sacred Power (SAC)** ผ่าน **Sacred Symbol**:
-
-| ไอคอน | สัญลักษณ์ศักดิ์สิทธิ์ | ดินแดนประจำ Symbol | เลเวลที่ปลดล็อค | สเตตัสและคุณสมบัติ |
-| :---: | :--- | :--- | :---: | :--- |
-| <img src="../assets/symbols/01713000.png" width="34" /> | **Sacred Symbol: Cernium** | เซอร์เนียม เมืองแห่งแสงสว่าง (Cernium) | Lv. 260 | มอบค่า Sacred Power (SAC) และ Main Stat |
-| <img src="../assets/symbols/01713001.png" width="34" /> | **Sacred Symbol: Arcus** | โรงแรมร้างกลางทะเลทราย (Hotel Arcus) | Lv. 270 | มอบค่า Sacred Power (SAC) และ Main Stat |
-
----
+***
 
 ## 📊 4. ตารางการอัปเกรด สเตตัส และจำนวน Symbol ที่ต้องใช้ (Lv. 1 - 20)
 
