@@ -16,13 +16,13 @@
 
 ## ⚔️ สายอาชีพ & สกิล (50 Classes)
 
-* [ภาพรวมสายอาชีพทั้งหมด](and-50-classes/classes-overview/README.md)
-* [📚 รวมสกิลทุกอาชีพ (คลาส 1 - 5)](and-50-classes/all-class-skills.md)
-  * [🛡️ สายนักรบ (13 อาชีพ)](and-50-classes/classes-overview/warriors.md)
-  * [🔮 สายนักเวท (12 อาชีพ)](and-50-classes/classes-overview/magicians.md)
-  * [🏹 สายนักธนู (7 อาชีพ)](and-50-classes/classes-overview/archers.md)
-  * [🗡️ สายโจร (8 อาชีพ)](and-50-classes/classes-overview/thieves.md)
-  * [⚓ สายโจรสลัด (10 อาชีพ)](and-50-classes/classes-overview/pirates.md)
+* [ภาพรวมสายอาชีพทั้งหมด](and-50-classes/classes-overview.md)
+* [📚 รวมสกิลทุกอาชีพ (คลาส 1 - 5)](and-50-classes/all-class-skills/README.md)
+  * [🛡️ สายนักรบ (13 อาชีพ)](and-50-classes/all-class-skills/warriors.md)
+  * [🔮 สายนักเวท (12 อาชีพ)](and-50-classes/all-class-skills/magicians.md)
+  * [🏹 สายนักธนู (7 อาชีพ)](and-50-classes/all-class-skills/archers.md)
+  * [🗡️ สายโจร (8 อาชีพ)](and-50-classes/all-class-skills/thieves.md)
+  * [⚓ สายโจรสลัด (10 อาชีพ)](and-50-classes/all-class-skills/pirates.md)
 
 ## 💎 การพัฒนาตัวละคร (Progression)
 
