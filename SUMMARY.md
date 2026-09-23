@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [🍀 หน้าแรก (Overview)](README.md)
 
@@ -79,6 +79,7 @@
 * [🗺️ คู่มือเก็บเลเวล 1-250 (Maple Guide)](progression/leveling-guide-1-250.md)
 * [ระบบ Union & Legion](progression/growth-and-union.md)
 * [ระบบตีบวก & พัฒนาอุปกรณ์](progression/equipment-upgrade.md)
+* [🌟 ระบบ Inner Ability (ความสามารถภายใน)](progression/inner-ability.md)
 
 ## 🏰 คอนเทนต์ & ร้านค้า (Content & Shops)
 
