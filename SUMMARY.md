@@ -82,6 +82,8 @@
 * [🌟 ระบบ Inner Ability (ความสามารถภายใน)](progression/inner-ability.md)
 * [🔮 ระบบ Arcane Symbol & Arcane River](progression/arcane-symbol.md)
 * [💠 ระบบ Nodestone & V-Matrix (คลาส 5)](progression/v-matrix.md)
+* [⚡ ระบบ Hyper Stat (ไฮเปอร์สเตตัส)](progression/hyper-stat.md)
+* [⚔️ การปลดผนึกอาวุธเทพ Genesis](progression/genesis-liberation.md)
 
 ## 🏰 คอนเทนต์ & ร้านค้า (Content & Shops)
 
