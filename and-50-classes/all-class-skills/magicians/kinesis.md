@@ -1,26 +1,26 @@
-﻿# 10. Kinesis (คิเนซิส) (Other)
+# 10. Kinesis (คิเนซิส) (Other)
 
-* **หมวดสายอาชีพ:** [🔮 สายนักเวท (12 อาชีพ)](README.md) | [📚 รวมสกิลทุกอาชีพ](../README.md)
+* **หมวดสายอาชีพ:** [🔮 สายนักเวท (12 อาชีพ)](./) | [📚 รวมสกิลทุกอาชีพ](../)
 
----
+***
 
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** PSY-limiter
 
-| ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
-| :---: | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| <img src="../../../.gitbook/assets/142001000.png" width="28" height="28" alt="Kinetic Crash" /> | **คลาส 1** | **Kinetic Crash** | - | - | 1 วิ | 4 ตัว | ใช้พลังจิตกระแทกมอนสเตอร์กระเด็น |
-| <img src="../../../.gitbook/assets/142101000.png" width="28" height="28" alt="Mad Crash" /> | **คลาส 2** | **Mad Crash** | - | - | - | - | ยกพื้นคอนกรีตฟาดศัตรูด้านหน้า |
-| <img src="../../../.gitbook/assets/142111000.png" width="28" height="28" alt="Kinetic Grab" /> | **คลาส 3** | **Kinetic Grab** | - | - | - | - | ยกมอนสเตอร์ 3 ตัวลอยขึ้นฟ้าเพื่อใช้ทุบ |
-| <img src="../../../.gitbook/assets/142121000.png" width="28" height="28" alt="Psychic Grab" /> | **คลาส 4** | **Psychic Grab** | - | - | - | - | ยกมอนสเตอร์หรือซากรถ 5 ชิ้นลอย สกิลโจมตีหลัก |
-| <img src="../../../.gitbook/assets/142121002.png" width="28" height="28" alt="Psychic Smash" /> | **คลาส 4** | **Psychic Smash** | - | - | - | - | ทุ่มซากรถและมอนสเตอร์ที่ยกลงพื้น ระเบิดรุนแรง |
-| <img src="../../../.gitbook/assets/142121004.png" width="28" height="28" alt="Ultimate - Metal Press" /> | **คลาส 4** | **Ultimate - Metal Press** | 1000% | 4 Hit | 30 วิ | 15 ตัว | เสกซากตู้เซฟเหล็กยักษ์ทับศัตรู ดาเมจมหาศาล |
-| <img src="../../../.gitbook/assets/142121052.png" width="28" height="28" alt="Everpsychic" /> | **Hyper** | **Everpsychic** | - | - | - | - | ดึงดูดวัตถุรอบเมืองเข้ามาบดขยี้ พร้อมสถานะอมตะ |
-| <img src="../../../.gitbook/assets/142121054.png" width="28" height="28" alt="Psychic Overdrive" /> | **Hyper** | **Psychic Overdrive** | - | - | - | - | ลดการใช้แต้มพลังจิต Psychic Point ลงครึ่งหนึ่ง |
-| <img src="../../../.gitbook/assets/400021021.png" width="28" height="28" alt="Psychic Tornado" /> | **คลาส 5** | **Psychic Tornado** | 800% | 3 Hit | ไม่มี (0s) | 8 ตัว | เสกพายุทอร์นาโดพลังจิต ดูดกลืนทุกสิ่งก่อนขว้างระเบิด |
-| <img src="../../../.gitbook/assets/400021051.png" width="28" height="28" alt="Ultimate - Moving Matter" /> | **คลาส 5** | **Ultimate - Moving Matter** | - | - | - | - | เสกทรงกลมสสารพลังจิต กลิ้งบดขยี้บอสต่อเนื่อง |
-| <img src="../../../.gitbook/assets/400021081.png" width="28" height="28" alt="Law of Gravity" /> | **คลาส 5** | **Law of Gravity** | 350% | - | 25 วิ | - | สร้างแรงโน้มถ่วงมหาศาลดูดบอสและระเบิดดาเมจ |
-| <img src="../../../.gitbook/assets/400021098.png" width="28" height="28" alt="Ultimate - Mind Flay" /> | **คลาส 5** | **Ultimate - Mind Flay** | 1320% | 15 Hit | ไม่มี (0s) | 10 ตัว | มีดพลังจิตนับร้อยเฉือนร่างศัตรูอย่างรวดเร็ว |
+|                                                 ไอคอน                                                |    คลาส    | ชื่อสกิล                     | ดาเมจ (%) |   Hit  |  คูลดาวน์  | เป้าหมาย | บทบาท & จุดเด่น                                      |
+| :--------------------------------------------------------------------------------------------------: | :--------: | ---------------------------- | :-------: | :----: | :--------: | :------: | ---------------------------------------------------- |
+|      <img src="../../../.gitbook/assets/142001000.png" alt="Kinetic Crash" data-size="original">     | **คลาส 1** | **Kinetic Crash**            |     -     |    -   |    1 วิ    |   4 ตัว  | ใช้พลังจิตกระแทกมอนสเตอร์กระเด็น                     |
+|                                             QOzeyAkCe5ll                                             | **คลาส 2** | **Mad Crash**                |     -     |    -   |      -     |     -    | ยกพื้นคอนกรีตฟาดศัตรูด้านหน้า                        |
+|                                             kHmSLOYuio2i                                             | **คลาส 3** | **Kinetic Grab**             |     -     |    -   |      -     |     -    | ยกมอนสเตอร์ 3 ตัวลอยขึ้นฟ้าเพื่อใช้ทุบ               |
+|                                             VV66p85OudWV                                             | **คลาส 4** | **Psychic Grab**             |     -     |    -   |      -     |     -    | ยกมอนสเตอร์หรือซากรถ 5 ชิ้นลอย สกิลโจมตีหลัก         |
+|                                             u18FMrdmda79                                             | **คลาส 4** | **Psychic Smash**            |     -     |    -   |      -     |     -    | ทุ่มซากรถและมอนสเตอร์ที่ยกลงพื้น ระเบิดรุนแรง        |
+| <img src="../../../.gitbook/assets/142121004.png" alt="Ultimate - Metal Press" data-size="original"> | **คลาส 4** | **Ultimate - Metal Press**   |   1000%   |  4 Hit |    30 วิ   |  15 ตัว  | เสกซากตู้เซฟเหล็กยักษ์ทับศัตรู ดาเมจมหาศาล           |
+|                                             nlCNIfgD7FkN                                             |  **Hyper** | **Everpsychic**              |     -     |    -   |      -     |     -    | ดึงดูดวัตถุรอบเมืองเข้ามาบดขยี้ พร้อมสถานะอมตะ       |
+|                                             1oXDOHQ1SeuD                                             |  **Hyper** | **Psychic Overdrive**        |     -     |    -   |      -     |     -    | ลดการใช้แต้มพลังจิต Psychic Point ลงครึ่งหนึ่ง       |
+|     <img src="../../../.gitbook/assets/400021019.png" alt="Psychic Tornado" data-size="original">    | **คลาส 5** | **Psychic Tornado**          |    800%   |  3 Hit | ไม่มี (0s) |   8 ตัว  | เสกพายุทอร์นาโดพลังจิต ดูดกลืนทุกสิ่งก่อนขว้างระเบิด |
+|                                             RSr6zGDPZK42                                             | **คลาส 5** | **Ultimate - Moving Matter** |     -     |    -   |      -     |     -    | เสกทรงกลมสสารพลังจิต กลิ้งบดขยี้บอสต่อเนื่อง         |
+|     <img src="../../../.gitbook/assets/400021078.png" alt="Law of Gravity" data-size="original">     | **คลาส 5** | **Law of Gravity**           |    350%   |    -   |    25 วิ   |     -    | สร้างแรงโน้มถ่วงมหาศาลดูดบอสและระเบิดดาเมจ           |
+|  <img src="../../../.gitbook/assets/400021096.png" alt="Ultimate - Mind Flay" data-size="original">  | **คลาส 5** | **Ultimate - Mind Flay**     |   1320%   | 15 Hit | ไม่มี (0s) |  10 ตัว  | มีดพลังจิตนับร้อยเฉือนร่างศัตรูอย่างรวดเร็ว          |
 
----
+***
 
-[⬅️ ย้อนกลับไปหน้า สายนักเวท (12 อาชีพ)](README.md) | [📚 สารบัญรวมสกิลทุกอาชีพ 50 อาชีพ](../README.md)
+[⬅️ ย้อนกลับไปหน้า สายนักเวท (12 อาชีพ)](./) | [📚 สารบัญรวมสกิลทุกอาชีพ 50 อาชีพ](../)
