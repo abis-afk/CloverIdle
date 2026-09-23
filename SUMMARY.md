@@ -14,6 +14,7 @@
 
 ## ⚔️ สายอาชีพ & สกิล (50 Classes)
 * [ภาพรวมสายอาชีพทั้งหมด](03-progression/classes-overview.md)
+* [📚 รวมสกิลทุกอาชีพ (คลาส 1 - 5)](03-progression/all-class-skills.md)
   * [🛡️ สายนักรบ (13 อาชีพ)](03-progression/classes/warriors.md)
   * [🔮 สายนักเวท (12 อาชีพ)](03-progression/classes/magicians.md)
   * [🏹 สายนักธนู (7 อาชีพ)](03-progression/classes/archers.md)
