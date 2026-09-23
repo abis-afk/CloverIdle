@@ -80,6 +80,8 @@
 * [ระบบ Union & Legion](progression/growth-and-union.md)
 * [ระบบตีบวก & พัฒนาอุปกรณ์](progression/equipment-upgrade.md)
 * [🌟 ระบบ Inner Ability (ความสามารถภายใน)](progression/inner-ability.md)
+* [🔮 ระบบ Arcane Symbol & Arcane River](progression/arcane-symbol.md)
+* [💠 ระบบ Nodestone & V-Matrix (คลาส 5)](progression/v-matrix.md)
 
 ## 🏰 คอนเทนต์ & ร้านค้า (Content & Shops)
 
