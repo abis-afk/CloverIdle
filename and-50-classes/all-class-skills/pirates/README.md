@@ -27,7 +27,7 @@
 
 |                                             ไอคอน                                            |    คลาส    | ชื่อสกิล             | ดาเมจ (%) |   Hit  |  คูลดาวน์  | เป้าหมาย | บทบาท & จุดเด่น                                           |
 | :------------------------------------------------------------------------------------------: | :--------: | -------------------- | :-------: | :----: | :--------: | :------: | --------------------------------------------------------- |
-|  <img src="../../../.gitbook/assets/5001005.png" alt="Somersault Kick" data-size="original"> | **คลาส 1** | **Somersault Kick**  |     -     |    -   |    10 วิ   |     -    | เตะลังกาหลังฟาดศัตรู                                      |
+|  <img src="../../../.gitbook/assets/0001014.png" alt="Somersault Kick" data-size="original"> | **คลาส 1** | **Somersault Kick**  |     -     |    -   |    10 วิ   |     -    | เตะลังกาหลังฟาดศัตรู                                      |
 |  <img src="../../../.gitbook/assets/5101004.png" alt="Corkscrew Blow" data-size="original">  | **คลาส 2** | **Corkscrew Blow**   |    140%   |  3 Hit | ไม่มี (0s) |   6 ตัว  | พุ่งหมัดควงสว่านผลักมอนสเตอร์                             |
 |   <img src="../../../.gitbook/assets/5111002.png" alt="Energy Burst" data-size="original">   | **คลาส 3** | **Energy Burst**     |    473%   |  2 Hit |    8 วิ    |   8 ตัว  | ระเบิดคลื่นพลังงานรอบตัว                                  |
 |     <img src="../../../.gitbook/assets/5121007.png" alt="Octopunch" data-size="original">    | **คลาส 4** | **Octopunch**        |    320%   |  8 Hit | ไม่มี (0s) |     -    | หมัดแปดทิศรัวใส่บอสเดี่ยว 8 Hit รวดเร็ว                   |

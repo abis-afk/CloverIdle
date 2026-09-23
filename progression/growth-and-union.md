@@ -168,15 +168,15 @@
 
 สกิลในกลุ่มนี้สามารถนำตัวละครสายเดียวกันมาซ้อนทับกัน เพื่อเพิ่มระดับเลเวลสกิลสูงสุดได้:
 
-|                                            ไอคอน                                            | สกิล Link                  | กลุ่มอาชีพที่ใช้ผสาน                                                   | สเตตัสเมื่อสะสมครบระดับสูงสุด                                                                                                      |
-| :-----------------------------------------------------------------------------------------: | -------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../.gitbook/assets/link_explorer_warrior.png" alt="Warrior" data-size="original"> | **Invincible Belief**      | Hero, Paladin, Dark Knight                                             | **(สะสมสูงสุด Lv.6):** เมื่อ HP ต่ำกว่า 15% จะฟื้นฟูเลือดอัตโนมัติ 35% ต่อวินาที นาน 3 วินาที (คูลดาวน์ 410 วิ)                    |
-|    <img src="../.gitbook/assets/link_explorer_mage.png" alt="Mage" data-size="original">    | **Empirical Knowledge**    | F/P, I/L, Bishop                                                       | **(สะสมสูงสุด Lv.6):** โจมตีมีโอกาส 25% สแกนจุดอ่อนศัตรู เพิ่ม Damage +3% และ IED +3% ซ้อนทับได้ 3 สแต็ก (รวม Damage +9%, IED +9%) |
-|  <img src="../.gitbook/assets/link_explorer_archer.png" alt="Archer" data-size="original">  | **Adventurer's Curiosity** | Bowmaster, Marksman, Pathfinder                                        | **(สะสมสูงสุด Lv.6):** **Critical Rate +10%** และเพิ่มโอกาสบันทึกข้อมูล Monster Collection +35%                                    |
-|   <img src="../.gitbook/assets/link_explorer_thief.png" alt="Thief" data-size="original">   | **Thief's Cunning**        | Night Lord, Shadower, Dual Blade                                       | **(สะสมสูงสุด Lv.6):** เมื่อทำให้ศัตรูติดสถานะผิดปกติ จะเพิ่ม **Damage +18%** นาน 10 วินาที (คูลดาวน์ 20 วิ)                       |
-|  <img src="../.gitbook/assets/link_explorer_pirate.png" alt="Pirate" data-size="original">  | **Pirate's Blessing**      | Buccaneer, Corsair, Cannoneer                                          | **(สะสมสูงสุด Lv.6):** **All Stat +70**, Max HP/MP +1,225 และดูดซับความเสียหายที่ได้รับ 15%                                        |
-|       <img src="../.gitbook/assets/link_cygnus.png" alt="Cygnus" data-size="original">      | **Cygnus Blessing**        | Dawn Warrior, Blaze Wizard, Wind Archer, Night Walker, Thunder Breaker | **(สะสมสูงสุด Lv.10):** **Attack / Magic Attack +25**, Status Resistance +15 และต้านทานธาตุ +15%                                   |
-|   <img src="../.gitbook/assets/link_resistance.png" alt="Resistance" data-size="original">  | **Spirit of Freedom**      | Battle Mage, Wild Hunter, Mechanic, Blaster                            | **(สะสมสูงสุด Lv.8):** **อมตะหลังเกิดใหม่นานสูงสุด 8 วินาที** (สำคัญมากตอนลงบอสระดับสูง!)                                          |
+|                                           ไอคอน                                          | สกิล Link                  | กลุ่มอาชีพที่ใช้ผสาน                                                   | สเตตัสเมื่อสะสมครบระดับสูงสุด                                                                                                      |
+| :--------------------------------------------------------------------------------------: | -------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+|       <img src="../.gitbook/assets/0000252.png" alt="Warrior" data-size="original">      | **Invincible Belief**      | Hero, Paladin, Dark Knight                                             | **(สะสมสูงสุด Lv.6):** เมื่อ HP ต่ำกว่า 15% จะฟื้นฟูเลือดอัตโนมัติ 35% ต่อวินาที นาน 3 วินาที (คูลดาวน์ 410 วิ)                    |
+|        <img src="../.gitbook/assets/0000255.png" alt="Mage" data-size="original">        | **Empirical Knowledge**    | F/P, I/L, Bishop                                                       | **(สะสมสูงสุด Lv.6):** โจมตีมีโอกาส 25% สแกนจุดอ่อนศัตรู เพิ่ม Damage +3% และ IED +3% ซ้อนทับได้ 3 สแต็ก (รวม Damage +9%, IED +9%) |
+|       <img src="../.gitbook/assets/0000258.png" alt="Archer" data-size="original">       | **Adventurer's Curiosity** | Bowmaster, Marksman, Pathfinder                                        | **(สะสมสูงสุด Lv.6):** **Critical Rate +10%** และเพิ่มโอกาสบันทึกข้อมูล Monster Collection +35%                                    |
+|        <img src="../.gitbook/assets/0000261.png" alt="Thief" data-size="original">       | **Thief's Cunning**        | Night Lord, Shadower, Dual Blade                                       | **(สะสมสูงสุด Lv.6):** เมื่อทำให้ศัตรูติดสถานะผิดปกติ จะเพิ่ม **Damage +18%** นาน 10 วินาที (คูลดาวน์ 20 วิ)                       |
+|       <img src="../.gitbook/assets/0000264.png" alt="Pirate" data-size="original">       | **Pirate's Blessing**      | Buccaneer, Corsair, Cannoneer                                          | **(สะสมสูงสุด Lv.6):** **All Stat +70**, Max HP/MP +1,225 และดูดซับความเสียหายที่ได้รับ 15%                                        |
+|     <img src="../.gitbook/assets/link_cygnus.png" alt="Cygnus" data-size="original">     | **Cygnus Blessing**        | Dawn Warrior, Blaze Wizard, Wind Archer, Night Walker, Thunder Breaker | **(สะสมสูงสุด Lv.10):** **Attack / Magic Attack +25**, Status Resistance +15 และต้านทานธาตุ +15%                                   |
+| <img src="../.gitbook/assets/link_resistance.png" alt="Resistance" data-size="original"> | **Spirit of Freedom**      | Battle Mage, Wild Hunter, Mechanic, Blaster                            | **(สะสมสูงสุด Lv.8):** **อมตะหลังเกิดใหม่นานสูงสุด 8 วินาที** (สำคัญมากตอนลงบอสระดับสูง!)                                          |
 
 ***
 
@@ -184,7 +184,7 @@
 
 ![ระบบฟาร์มเหรียญ Union Coin และบอสมังกร](../.gitbook/assets/union_guide_raid_coins.png)
 
-เหรียญ  **Union Coin** คือสกุลเงินพิเศษที่ใช้สำหรับเลื่อนระดับยศ Union และซื้อไอเทมบัฟพัฒนาตัวละครในร้านค้า Union Shop
+เหรียญ **Union Coin** คือสกุลเงินพิเศษที่ใช้สำหรับเลื่อนระดับยศ Union และซื้อไอเทมบัฟพัฒนาตัวละครในร้านค้า Union Shop
 
 ### 5.1 กลไกการฟาร์มเหรียญ 2 รูปแบบ
 
