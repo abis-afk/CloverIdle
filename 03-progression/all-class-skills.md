@@ -1,4 +1,4 @@
-# 📚 รวมสกิลทุกอาชีพ (All Class Skills Database)
+﻿# 📚 รวมสกิลทุกอาชีพ (All Class Skills Database)
 
 รวบรวมข้อมูลสกิลของทุกอาชีพใน **Clover Idle Story (KMS v232.2)** อย่างละเอียดครบถ้วนทั้ง **50 อาชีพ** ตั้งแต่ **คลาส 1 ถึง คลาส 5 (5th Job V-Matrix)** พร้อมภาพไอคอนสกิลแท้, ค่าดาเมจเปอร์เซ็นต์ (Damage %), จำนวนครั้งที่โจมตี (Hit), คูลดาวน์ (Cooldown), และจำนวนเป้าหมายสูงสุด เพื่อใช้เป็นคู่มืออ้างอิงสำหรับการอัปเกรดตัวละครและการจัดปุ่มสกิลบอทอัตโนมัติ (`@bot` / `@autoplay`)
 
@@ -14,17 +14,35 @@
 
 ## 🧭 สารบัญด่วนเลือกดูตามสายอาชีพ (Quick Navigation)
 
-* [🛡️ สายนักรบ (Warriors - 13 อาชีพ)](#-1-สายนักรบ-warriors---13-อาชีพ)
-* [🔮 สายนักเวท (Magicians - 12 อาชีพ)](#-2-สายนักเวท-magicians---12-อาชีพ)
-* [🏹 สายนักธนู (Archers - 7 อาชีพ)](#-3-สายนักธนู-archers---7-อาชีพ)
-* [🗡️ สายโจร (Thieves - 8 อาชีพ)](#-4-สายโจร-thieves---8-อาชีพ)
-* [⚓ สายโจรสลัด (Pirates - 10 อาชีพ)](#-5-สายโจรสลัด-pirates---10-อาชีพ)
+* [🛡️ สายนักรบ (13 อาชีพ)](#-1-สายนักรบ-warriors---13-อาชีพ)
+* [🔮 สายนักเวท (12 อาชีพ)](#-2-สายนักเวท-magicians---12-อาชีพ)
+* [🏹 สายนักธนู (7 อาชีพ)](#-3-สายนักธนู-archers---7-อาชีพ)
+* [🗡️ สายโจร (8 อาชีพ)](#-4-สายโจร-thieves---8-อาชีพ)
+* [⚓ สายโจรสลัด (10 อาชีพ)](#-5-สายโจรสลัด-pirates---10-อาชีพ)
 
 ---
 
 ## 🛡️ 1. สายนักรบ (Warriors - 13 อาชีพ)
 
+**สายนักรบมีทั้งหมด 13 อาชีพ ได้แก่:**
+1. [Hero (ฮีโร่) (Explorer)](#1-hero-ฮีโร่-explorer)
+2. [Paladin (พาลาดิน) (Explorer)](#2-paladin-พาลาดิน-explorer)
+3. [Dark Knight (ดาร์กไนท์) (Explorer)](#3-dark-knight-ดาร์กไนท์-explorer)
+4. [Dawn Warrior (ดอว์น วอริเออร์) (Cygnus Knights)](#4-dawn-warrior-ดอว์น-วอริเออร์-cygnus-knights)
+5. [Mihile (มิฮาเอล) (Cygnus Knights)](#5-mihile-มิฮาเอล-cygnus-knights)
+6. [Adele (อเดล) (Flora)](#6-adele-อเดล-flora)
+7. [Kaiser (ไคเซอร์) (Nova)](#7-kaiser-ไคเซอร์-nova)
+8. [Demon Slayer (เดมอน สเลเยอร์) (Demon)](#8-demon-slayer-เดมอน-สเลเยอร์-demon)
+9. [Demon Avenger (เดมอน อเวนเจอร์) (Demon)](#9-demon-avenger-เดมอน-อเวนเจอร์-demon)
+10. [Blaster (บลาสเตอร์) (Resistance)](#10-blaster-บลาสเตอร์-resistance)
+11. [Aran (อารัน) (Heroes)](#11-aran-อารัน-heroes)
+12. [Hayato (ฮายาโตะ) (Sengoku)](#12-hayato-ฮายาโตะ-sengoku)
+13. [Zero (ซีโร่ - Alpha & Beta) (Transcendence)](#13-zero-ซีโร่---alpha-beta-transcendence)
+
+---
+
 ### 1. Hero (ฮีโร่) (Explorer)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** ดาบสองมือ / ขวานสองมือ
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -36,7 +54,7 @@
 | <img src="../assets/skills/1111008.png" width="28" height="28" alt="Shout" /> | **คลาส 3** | **Shout** | 250% | 6 Hit | 10 วิ | 12 ตัว | คำรามคลื่นเสียงสตั๊นมอนสเตอร์รอบตัวเป็นวงกว้าง |
 | <img src="../assets/skills/1121008.png" width="28" height="28" alt="Raging Blow" /> | **คลาส 4** | **Raging Blow** | 200% | 7 Hit | ไม่มี (0s) | 8 ตัว | สกิลฟาร์มและโจมตีหลัก ฟันต่อเนื่องรวดเร็ว (ติดคริ 100% ในฮิตสุดท้าย) |
 | <img src="../assets/skills/1121015.png" width="28" height="28" alt="Puncture" /> | **คลาส 4** | **Puncture** | 576% | 4 Hit | 30 วิ | 8 ตัว | แทงทะลวงเกราะ ทำให้ศัตรูติดดีบัฟรับดาเมจคริติคอลแรงขึ้น |
-| <img src="../assets/skills/1121010.png" width="28" height="28" alt="Enrage" /> | **คลาส 4** | **Enrage** | - | - | 21000000 วิ | 2 ตัว | เปลี่ยนการโจมตีทั้งหมดเป็นเป้าเดี่ยวเพื่อสังหารบอสอย่างรุนแรง |
+| <img src="../assets/skills/1121010.png" width="28" height="28" alt="Enrage" /> | **คลาส 4** | **Enrage** | - | - | ไม่มี (Toggle) | 2 ตัว | เปลี่ยนการโจมตีทั้งหมดเป็นเป้าเดี่ยวเพื่อสังหารบอสอย่างรุนแรง |
 | <img src="../assets/skills/1121052.png" width="28" height="28" alt="Rising Rage" /> | **Hyper** | **Rising Rage** | 500% | 8 Hit | 10 วิ | 10 ตัว | สกิลเสาดาบเพลิงทะลวงฟ้า คูลดาวน์สั้น กวาดมอนสเตอร์ทั้งฉาก |
 | <img src="../assets/skills/1121054.png" width="28" height="28" alt="Cry Valhalla" /> | **Hyper** | **Cry Valhalla** | - | - | 150 วิ | - | ปลุกพลังวัลฮัลลา เพิ่มพลังโจมตีและต้านทานสถานะผิดปกติ 100% |
 | <img src="../assets/skills/400011000.png" width="28" height="28" alt="Burning Soul Blade" /> | **คลาส 5** | **Burning Soul Blade** | - | - | 180 วิ | 10 ตัว | ดาบเพลิงวิญญาณ ปักลงพื้นช่วยโจมตีอัตโนมัติหรือถือฟัน |
@@ -47,6 +65,7 @@
 ---
 
 ### 2. Paladin (พาลาดิน) (Explorer)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** ดาบ / กระบอง
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -69,6 +88,7 @@
 ---
 
 ### 3. Dark Knight (ดาร์กไนท์) (Explorer)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** หอก / โพลอาร์ม
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -90,6 +110,7 @@
 ---
 
 ### 4. Dawn Warrior (ดอว์น วอริเออร์) (Cygnus Knights)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** ดาบสองมือ
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -110,6 +131,7 @@
 ---
 
 ### 5. Mihile (มิฮาเอล) (Cygnus Knights)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** ดาบมือเดียว + โล่ Soul Shield
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -129,6 +151,7 @@
 ---
 
 ### 6. Adele (อเดล) (Flora)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** Bladecaster (ดาบลอย)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -149,6 +172,7 @@
 ---
 
 ### 7. Kaiser (ไคเซอร์) (Nova)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** ดาบสองมือ
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -169,6 +193,7 @@
 ---
 
 ### 8. Demon Slayer (เดมอน สเลเยอร์) (Demon)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** กระบองมือเดียว / ขวานมือเดียว
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -188,6 +213,7 @@
 ---
 
 ### 9. Demon Avenger (เดมอน อเวนเจอร์) (Demon)
+
 * **สเตตัสหลัก:** HP | **อาวุธประจำตัว:** Desperado
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -207,6 +233,7 @@
 ---
 
 ### 10. Blaster (บลาสเตอร์) (Resistance)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** Arm Cannon
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -226,25 +253,27 @@
 ---
 
 ### 11. Aran (อารัน) (Heroes)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** โพลอาร์ม (Polearm)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| <img src="../assets/skills/21001000.png" width="28" height="28" alt="Smash Wave" /> | **คลาส 1** | **Smash Wave** | - | - | - | - | ฟาดง้าวปล่อยคลื่นพลังกระแทก |
-| <img src="../assets/skills/21100000.png" width="28" height="28" alt="Final Toss" /> | **คลาส 2** | **Final Toss** | - | - | ไม่มี (0s) | - | เสยง้าวผลักมอนสเตอร์ลอยขึ้นฟ้า |
-| <img src="../assets/skills/21110000.png" width="28" height="28" alt="Aero Swing" /> | **คลาส 3** | **Aero Swing** | - | - | ไม่มี (0s) | - | ควงง้าวกลางอากาศกวาดมอนสเตอร์รอบตัว |
-| <img src="../assets/skills/21120014.png" width="28" height="28" alt="Beyond Blade" /> | **คลาส 4** | **Beyond Blade** | - | - | - | - | ฟาดง้าวต่อเนื่อง 3 จังหวะพลังทำลายล้างสูงสุด |
-| <img src="../assets/skills/21120011.png" width="28" height="28" alt="Final Blow" /> | **คลาส 4** | **Final Blow** | - | - | ไม่มี (0s) | - | ฟาดง้าวกระแทกพื้นเปิดทางสู่คอมโบ Beyond Blade |
-| <img src="../assets/skills/21121052.png" width="28" height="28" alt="Maha's Carnage" /> | **Hyper** | **Maha's Carnage** | - | - | - | - | ทุบง้าวมาฮาลงพื้นสร้างความเสียหายวงกว้างมาก |
-| <img src="../assets/skills/21121053.png" width="28" height="28" alt="Adrenaline Generator" /> | **Hyper** | **Adrenaline Generator** | - | - | 120 วิ | - | เข้าสู่สถานะ Adrenaline ทันที ดาเมจและระยะสกิลเพิ่มขึ้น |
+| <img src="../assets/skills/21000004.png" width="28" height="28" alt="Smash Wave" /> | **คลาส 1** | **Smash Wave** | 500% | 1 Hit | 3 วิ | 6 ตัว | ฟาดง้าวปล่อยคลื่นพลังกระแทก |
+| <img src="../assets/skills/21100012.png" width="28" height="28" alt="Final Toss" /> | **คลาส 2** | **Final Toss** | 950% | 1 Hit | ไม่มี (0s) | 6 ตัว | เสยง้าวผลักมอนสเตอร์ลอยขึ้นฟ้า |
+| <img src="../assets/skills/21110026.png" width="28" height="28" alt="Aero Swing" /> | **คลาส 3** | **Aero Swing** | 350% | 2 Hit | ไม่มี (0s) | 8 ตัว | ควงง้าวกลางอากาศกวาดมอนสเตอร์รอบตัว |
+| <img src="../assets/skills/21120022.png" width="28" height="28" alt="Beyond Blade" /> | **คลาส 4** | **Beyond Blade** | 315% | 5 Hit | ไม่มี (0s) | 8 ตัว | ฟาดง้าวต่อเนื่อง 3 จังหวะพลังทำลายล้างสูงสุด |
+| <img src="../assets/skills/21110020.png" width="28" height="28" alt="Final Blow" /> | **คลาส 4** | **Final Blow** | 335% | 5 Hit | ไม่มี (0s) | 6 ตัว | ฟาดง้าวกระแทกพื้นเปิดทางสู่คอมโบ Beyond Blade |
+| <img src="../assets/skills/21121057.png" width="28" height="28" alt="Maha's Domain" /> | **Hyper** | **Maha's Domain** | 800% | 5 Hit | 150 วิ | 15 ตัว | ทุบง้าวมาฮาลงพื้นสร้างความเสียหายวงกว้างมาก |
+| <img src="../assets/skills/21121058.png" width="28" height="28" alt="Adrenaline Burst" /> | **Hyper** | **Adrenaline Burst** | - | - | 240 วิ | - | เข้าสู่สถานะ Adrenaline ทันที ดาเมจและระยะสกิลเพิ่มขึ้น |
 | <img src="../assets/skills/400011007.png" width="28" height="28" alt="Maha's Domain" /> | **คลาส 5** | **Maha's Domain** | 600% | 3 Hit | ไม่มี (0s) | 6 ตัว | ปักง้าวมาฮาขนาดยักษ์ สร้างอาณาเขตฮีลและล้างดีบัฟ |
-| <img src="../assets/skills/400011051.png" width="28" height="28" alt="Maha's Fury" /> | **คลาส 5** | **Maha's Fury** | - | - | - | - | ปลดปล่อยพลังคลั่งของมาฮา เพิ่มพลังโจมตีและพายุหิมะ |
-| <img src="../assets/skills/400011071.png" width="28" height="28" alt="Fenrir Crash" /> | **คลาส 5** | **Fenrir Crash** | - | - | - | - | เรียกหมาป่าเฟนรีร์กระโจนฟาดฟันต่อจาก Beyond Blade |
-| <img src="../assets/skills/400011127.png" width="28" height="28" alt="Blizzard Tempest" /> | **คลาส 5** | **Blizzard Tempest** | - | - | 90 วิ | - | พายุหิมะแช่แข็งศัตรูทั้งหมดและระเบิดดาเมจอย่างรุนแรง |
+| <img src="../assets/skills/400011051.png" width="28" height="28" alt="Maha's Fury" /> | **คลาส 5** | **Maha's Fury** | 880% | 5 Hit | 150 วิ | 10 ตัว | ปลดปล่อยพลังคลั่งของมาฮา เพิ่มพลังโจมตีและพายุหิมะ |
+| <img src="../assets/skills/400011071.png" width="28" height="28" alt="Fenrir Crash" /> | **คลาส 5** | **Fenrir Crash** | 550% | 7 Hit | ไม่มี (0s) | 10 ตัว | เรียกหมาป่าเฟนรีร์กระโจนฟาดฟันต่อจาก Beyond Blade |
+| <img src="../assets/skills/400011127.png" width="28" height="28" alt="Blizzard Tempest" /> | **คลาส 5** | **Blizzard Tempest** | 880% | 6 Hit | 180 วิ | 15 ตัว | พายุหิมะแช่แข็งศัตรูทั้งหมดและระเบิดดาเมจอย่างรุนแรง |
 
 ---
 
 ### 12. Hayato (ฮายาโตะ) (Sengoku)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** คาตานะ (Katana)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -264,6 +293,7 @@
 ---
 
 ### 13. Zero (ซีโร่ - Alpha & Beta) (Transcendence)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** Long Sword (Alpha) / Heavy Sword (Beta)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -285,7 +315,24 @@
 
 ## 🔮 2. สายนักเวท (Magicians - 12 อาชีพ)
 
+**สายนักเวทมีทั้งหมด 12 อาชีพ ได้แก่:**
+1. [Arch Mage (Fire/Poison) (นักเวทไฟ/พิษ) (Explorer)](#14-arch-mage-firepoison-นักเวทไฟพิษ-explorer)
+2. [Arch Mage (Ice/Lightning) (นักเวทน้ำแข็ง/สายฟ้า) (Explorer)](#15-arch-mage-icelightning-นักเวทน้ำแข็งสายฟ้า-explorer)
+3. [Bishop (บิชอป) (Explorer)](#16-bishop-บิชอป-explorer)
+4. [Blaze Wizard (เบลซ วิซาร์ด) (Cygnus Knights)](#17-blaze-wizard-เบลซ-วิซาร์ด-cygnus-knights)
+5. [Battle Mage (แบทเทิลเมจ) (Resistance)](#18-battle-mage-แบทเทิลเมจ-resistance)
+6. [Evan (อีวาน) (Heroes)](#19-evan-อีวาน-heroes)
+7. [Luminous (ลูมินัส) (Heroes)](#20-luminous-ลูมินัส-heroes)
+8. [Illium (อิลเลียม) (Flora)](#21-illium-อิลเลียม-flora)
+9. [Lara (ลาร่า) (Anima)](#22-lara-ลาร่า-anima)
+10. [Kinesis (คิเนซิส) (Other)](#23-kinesis-คิเนซิส-other)
+11. [Kanna (คันนะ) (Sengoku)](#24-kanna-คันนะ-sengoku)
+12. [Beast Tamer (บีสต์ เทมเมอร์) (Other)](#25-beast-tamer-บีสต์-เทมเมอร์-other)
+
+---
+
 ### 14. Arch Mage (Fire/Poison) (นักเวทไฟ/พิษ) (Explorer)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** คทา (Wand / Staff)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -307,6 +354,7 @@
 ---
 
 ### 15. Arch Mage (Ice/Lightning) (นักเวทน้ำแข็ง/สายฟ้า) (Explorer)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** คทา (Wand / Staff)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -328,6 +376,7 @@
 ---
 
 ### 16. Bishop (บิชอป) (Explorer)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** คทา (Wand / Staff)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -350,6 +399,7 @@
 ---
 
 ### 17. Blaze Wizard (เบลซ วิซาร์ด) (Cygnus Knights)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** คทา (Wand / Staff)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -369,6 +419,7 @@
 ---
 
 ### 18. Battle Mage (แบทเทิลเมจ) (Resistance)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** Staff
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -388,6 +439,7 @@
 ---
 
 ### 19. Evan (อีวาน) (Heroes)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** Wand / Staff
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -407,6 +459,7 @@
 ---
 
 ### 20. Luminous (ลูมินัส) (Heroes)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** Shining Rod
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -427,6 +480,7 @@
 ---
 
 ### 21. Illium (อิลเลียม) (Flora)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** Lucent Gauntlet
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -447,6 +501,7 @@
 ---
 
 ### 22. Lara (ลาร่า) (Anima)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** Wand
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -466,6 +521,7 @@
 ---
 
 ### 23. Kinesis (คิเนซิส) (Other)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** PSY-limiter
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -486,6 +542,7 @@
 ---
 
 ### 24. Kanna (คันนะ) (Sengoku)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** Fan
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -505,12 +562,13 @@
 ---
 
 ### 25. Beast Tamer (บีสต์ เทมเมอร์) (Other)
+
 * **สเตตัสหลัก:** INT | **อาวุธประจำตัว:** Scepter
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
 | <img src="../assets/skills/112001000.png" width="28" height="28" alt="Paw Swipe" /> | **Bear** | **Paw Swipe** | - | - | - | - | หมีตบกรงเล็บด้านหน้าต่อเนื่อง 4 จังหวะ |
-| <img src="../assets/skills/112001009.png" width="28" height="28" alt="Fish Slap" /> | **Bear** | **Fish Slap** | - | - | 21000000 วิ | 1 ตัว | เอาปลาทูน่ายักษ์ฟาดศัตรู |
+| <img src="../assets/skills/112001009.png" width="28" height="28" alt="Fish Slap" /> | **Bear** | **Fish Slap** | - | - | ไม่มี (Toggle) | 1 ตัว | เอาปลาทูน่ายักษ์ฟาดศัตรู |
 | <img src="../assets/skills/112101000.png" width="28" height="28" alt="Leopard Paw" /> | **Snow Leopard** | **Leopard Paw** | - | - | - | - | เสือดาวกระโจนตบและพุ่งผ่านมอนสเตอร์ |
 | <img src="../assets/skills/112111000.png" width="28" height="28" alt="Formation Attack" /> | **Hawk** | **Formation Attack** | - | - | 60 วิ | - | นกอินทรีบินทิ้งระเบิดขนนกจากบนฟ้า |
 | <img src="../assets/skills/112121000.png" width="28" height="28" alt="Meow Heal" /> | **Cat** | **Meow Heal** | - | - | - | - | แมวเหมียวฮีลเพื่อนและมอบบัฟ EXP / Drop |
@@ -525,7 +583,19 @@
 
 ## 🏹 3. สายนักธนู (Archers - 7 อาชีพ)
 
+**สายนักธนูมีทั้งหมด 7 อาชีพ ได้แก่:**
+1. [Bowmaster (โบว์มาสเตอร์) (Explorer)](#26-bowmaster-โบว์มาสเตอร์-explorer)
+2. [Marksman (มาร์กสแมน) (Explorer)](#27-marksman-มาร์กสแมน-explorer)
+3. [Pathfinder (พาธไฟน์เดอร์) (Explorer)](#28-pathfinder-พาธไฟน์เดอร์-explorer)
+4. [Wind Archer (วินด์ อาร์เชอร์) (Cygnus Knights)](#29-wind-archer-วินด์-อาร์เชอร์-cygnus-knights)
+5. [Wild Hunter (ไวลด์ ฮันเตอร์) (Resistance)](#30-wild-hunter-ไวลด์-ฮันเตอร์-resistance)
+6. [Mercedes (เมอร์เซเดส) (Heroes)](#31-mercedes-เมอร์เซเดส-heroes)
+7. [Kain (เคน) (Nova)](#32-kain-เคน-nova)
+
+---
+
 ### 26. Bowmaster (โบว์มาสเตอร์) (Explorer)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** ธนู (Bow)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -546,6 +616,7 @@
 ---
 
 ### 27. Marksman (มาร์กสแมน) (Explorer)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** หน้าไม้ (Crossbow)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -565,6 +636,7 @@
 ---
 
 ### 28. Pathfinder (พาธไฟน์เดอร์) (Explorer)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** Ancient Bow
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -585,6 +657,7 @@
 ---
 
 ### 29. Wind Archer (วินด์ อาร์เชอร์) (Cygnus Knights)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** ธนู (Bow)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -605,6 +678,7 @@
 ---
 
 ### 30. Wild Hunter (ไวลด์ ฮันเตอร์) (Resistance)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** Crossbow
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -612,7 +686,7 @@
 | <img src="../assets/skills/33001000.png" width="28" height="28" alt="Triple Shot" /> | **คลาส 1** | **Triple Shot** | - | - | - | - | ขี่จากัวร์ยิงศร 3 ดอก |
 | <img src="../assets/skills/33101000.png" width="28" height="28" alt="Ricochet" /> | **คลาส 2** | **Ricochet** | - | - | - | - | ยิงศรสะท้อนเด้งไปมาระหว่างศัตรู |
 | <img src="../assets/skills/33111000.png" width="28" height="28" alt="Enduring Fire" /> | **คลาส 3** | **Enduring Fire** | - | - | - | - | ยิงกระหน่ำกระสุนเพลิงต่อเนื่อง |
-| <img src="../assets/skills/33121000.png" width="28" height="28" alt="Wild Arrow Blast" /> | **คลาส 4** | **Wild Arrow Blast** | - | - | - | - | ปืนกลหน้าไม้สาดกระสุนไม่หยุด สกิลบอสหลัก |
+| <img src="../assets/skills/33121000.png" width="28" height="28" alt="Wild Arrow Blast" /> | **คลาส 4** | **Wild Arrow Blast** | 300% | 1 Hit | ไม่มี (0s) | 1 ตัว | ปืนกลหน้าไม้สาดกระสุนไม่หยุด สกิลบอสหลัก |
 | <img src="../assets/skills/33121009.png" width="28" height="28" alt="Sonic Boom" /> | **คลาส 4** | **Sonic Boom** | - | - | - | - | จากัวร์คำรามคลื่นเสียงโซนิคกวาดล้างศัตรู |
 | <img src="../assets/skills/33121052.png" width="28" height="28" alt="Flash Rain" /> | **Hyper** | **Flash Rain** | - | - | - | - | ฝนศรส่องสว่างถล่มมอนสเตอร์ทั้งฉาก |
 | <img src="../assets/skills/33121054.png" width="28" height="28" alt="Silent Rampage" /> | **Hyper** | **Silent Rampage** | - | - | 120 วิ | - | สัญชาตญาณสัตว์ป่า เพิ่มดาเมจและอัตราติดสกิลเสริม |
@@ -624,6 +698,7 @@
 ---
 
 ### 31. Mercedes (เมอร์เซเดส) (Heroes)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** Dual Bowguns (ธนูคู่)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -644,6 +719,7 @@
 ---
 
 ### 32. Kain (เคน) (Nova)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** Breath Shooter
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -664,19 +740,32 @@
 
 ## 🗡️ 4. สายโจร (Thieves - 8 อาชีพ)
 
+**สายโจรมีทั้งหมด 8 อาชีพ ได้แก่:**
+1. [Night Lord (ไนท์ลอร์ด) (Explorer)](#33-night-lord-ไนท์ลอร์ด-explorer)
+2. [Shadower (ชาโดเวอร์) (Explorer)](#34-shadower-ชาโดเวอร์-explorer)
+3. [Dual Blade (ดูอัล เบลด) (Explorer)](#35-dual-blade-ดูอัล-เบลด-explorer)
+4. [Night Walker (ไนท์ วอล์กเกอร์) (Cygnus Knights)](#36-night-walker-ไนท์-วอล์กเกอร์-cygnus-knights)
+5. [Phantom (แฟนทอม) (Heroes)](#37-phantom-แฟนทอม-heroes)
+6. [Cadena (คาเดนา) (Nova)](#38-cadena-คาเดนา-nova)
+7. [Hoyoung (โฮยอง) (Anima)](#39-hoyoung-โฮยอง-anima)
+8. [Khali (คาลี) (Flora)](#40-khali-คาลี-flora)
+
+---
+
 ### 33. Night Lord (ไนท์ลอร์ด) (Explorer)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** กรงเล็บ (Claw + ดาวกระจาย)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| <img src="../assets/skills/4001005.png" width="28" height="28" alt="Lucky Seven" /> | **คลาส 1** | **Lucky Seven** | - | - | 600 วิ | - | ปาดาวกระจาย 2 นัดใส่ศัตรู |
+| <img src="../assets/skills/4001005.png" width="28" height="28" alt="Lucky Seven" /> | **คลาส 1** | **Lucky Seven** | 190% | 2 Hit | ไม่มี (0s) | 1 ตัว | ปาดาวกระจาย 2 นัดใส่ศัตรู |
 | <img src="../assets/skills/4101005.png" width="28" height="28" alt="Shuriken Burst" /> | **คลาส 2** | **Shuriken Burst** | - | - | - | - | ปาดาวกระจายระเบิดใส่กลุ่มมอนสเตอร์ |
 | <img src="../assets/skills/4111006.png" width="28" height="28" alt="Shadow Partner" /> | **คลาส 3** | **Shadow Partner** | - | - | - | - | แยกร่างเงา โจมตีตามติดซ้ำอีก 70% |
 | <img src="../assets/skills/4121013.png" width="28" height="28" alt="Quad Star" /> | **คลาส 4** | **Quad Star** | 420% | - | ไม่มี (0s) | - | ปาดาวกระจาย 4 ดอกด้วยความเร็วแสง สกิลตีบอสหลัก |
 | <img src="../assets/skills/4121017.png" width="28" height="28" alt="Showdown" /> | **คลาส 4** | **Showdown** | 708% | 2 Hit | 145 วิ | 6 ตัว | เสกมอนสเตอร์ยักษ์กวาดศัตรู เพิ่ม EXP และ Drop Rate |
 | <img src="../assets/skills/4120018.png" width="28" height="28" alt="Assassin's Mark" /> | **คลาส 4** | **Assassin's Mark** | 120% | - | ไม่มี (0s) | 3 ตัว | ดาวกระจายวิญญาณเด้งชิ่งออกจากศัตรูอัตโนมัติ |
 | <img src="../assets/skills/4121052.png" width="28" height="28" alt="Four Seasons" /> | **Hyper** | **Four Seasons** | 358% | 7 Hit | 14 วิ | 8 ตัว | สี่ฤดูกาล เสกยันต์ยักษ์ทับมอนสเตอร์ทั้งจอ |
-| <img src="../assets/skills/4121054.png" width="28" height="28" alt="Bleed Dart" /> | **Hyper** | **Bleed Dart** | - | - | 180 วิ | - | ดาวกระจายพิษเลือดไหล เพิ่มพลังโจมตีสูงมาก |
+| <img src="../assets/skills/4121054.png" width="28" height="28" alt="Bleed Dart" /> | **Hyper** | **Bleed Dart** | 1000% | 1 Hit | 180 วิ | 1 ตัว | ดาวกระจายพิษเลือดไหล เพิ่มพลังโจมตีสูงมาก |
 | <img src="../assets/skills/400041000.png" width="28" height="28" alt="Spread Throw" /> | **คลาส 5** | **Spread Throw** | 1100% | 6 Hit | 8 วิ | 12 ตัว | ปาดาวกระจายกระจาย 4 ทิศทาง ระเบิดดาเมจระยะประชิดมหาศาล |
 | <img src="../assets/skills/400041027.png" width="28" height="28" alt="Fuma Shuriken" /> | **คลาส 5** | **Fuma Shuriken** | 1210% | 5 Hit | 14 วิ | 10 ตัว | ปาดาวกระจายยักษ์หมุนฟันมอนสเตอร์ต่อเนื่อง |
 | <img src="../assets/skills/400041049.png" width="28" height="28" alt="Dark Lord's Omen" /> | **คลาส 5** | **Dark Lord's Omen** | - | 4 Hit | ไม่มี (0s) | 1 ตัว | ยันต์โบราณเรียกฝนดาวกระจายตกถล่มทั้งฉาก |
@@ -685,6 +774,7 @@
 ---
 
 ### 34. Shadower (ชาโดเวอร์) (Explorer)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** มีดสั้น (Dagger + โล่)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -693,7 +783,7 @@
 | <img src="../assets/skills/4201004.png" width="28" height="28" alt="Savage Blow" /> | **คลาส 2** | **Savage Blow** | 410% | - | 12 วิ | 4 ตัว | กระหน่ำแทงมีด 6 Hit รวดเร็ว |
 | <img src="../assets/skills/4211002.png" width="28" height="28" alt="Meso Explosion" /> | **คลาส 3** | **Meso Explosion** | 470% | 2 Hit | ไม่มี (0s) | 8 ตัว | จุดระเบิดเหรียญ Meso บนพื้น สร้างสะเก็ดระเบิดรอบทิศ |
 | <img src="../assets/skills/4211006.png" width="28" height="28" alt="Shadow Partner" /> | **คลาส 3** | **Shadow Partner** | 130% | 2 Hit | ไม่มี (0s) | 10 ตัว | แยกร่างเงาโจมตีตามติด |
-| <img src="../assets/skills/4221001.png" width="28" height="28" alt="Assassinate" /> | **คลาส 4** | **Assassinate** | - | - | - | - | ลอบสังหาร แทงจุดตาย 2 จังหวะรุนแรงที่สุดใส่บอส |
+| <img src="../assets/skills/4221001.png" width="28" height="28" alt="Assassinate" /> | **คลาส 4** | **Assassinate** | 750% | 3 Hit | ไม่มี (0s) | 1 ตัว | ลอบสังหาร แทงจุดตาย 2 จังหวะรุนแรงที่สุดใส่บอส |
 | <img src="../assets/skills/4221007.png" width="28" height="28" alt="Boomerang Step" /> | **คลาส 4** | **Boomerang Step** | 375% | 4 Hit | 4 วิ | 8 ตัว | พุ่งเฉือนมีดไปกลับกวาดมอนสเตอร์ทั้งแถว |
 | <img src="../assets/skills/4221052.png" width="28" height="28" alt="Shadow Veil" /> | **Hyper** | **Shadow Veil** | 800% | 1 Hit | 60 วิ | 15 ตัว | หมอกเงาความมืด เฉือนศัตรูต่อเนื่องทั้งหน้าจอ |
 | <img src="../assets/skills/4221054.png" width="28" height="28" alt="Flip the Coin" /> | **Hyper** | **Flip the Coin** | - | - | 120 วิ | - | ดีดเหรียญทอง สะสมบัฟดาเมจและคริติคอล |
@@ -705,13 +795,14 @@
 ---
 
 ### 35. Dual Blade (ดูอัล เบลด) (Explorer)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** มีดคู่ (Dagger + Katara)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
 | <img src="../assets/skills/4001004.png" width="28" height="28" alt="Double Stab" /> | **คลาส 1** | **Double Stab** | - | - | - | - | แทงมีดสั้นสองจังหวะ |
 | <img src="../assets/skills/4301000.png" width="28" height="28" alt="Slash Storm" /> | **คลาส 2** | **Slash Storm** | - | - | - | - | ควงมีดคู่พุ่งฟันพายุหมุน |
-| <img src="../assets/skills/4321000.png" width="28" height="28" alt="Flying Assaulter" /> | **คลาส 3** | **Flying Assaulter** | - | - | - | - | ทิ้งดิ่งจากฟ้าพุ่งแทงมอนสเตอร์ลงพื้น |
+| <img src="../assets/skills/4321000.png" width="28" height="28" alt="Flying Assaulter" /> | **คลาส 3** | **Flying Assaulter** | 165% | 4 Hit | ไม่มี (0s) | 8 ตัว | ทิ้งดิ่งจากฟ้าพุ่งแทงมอนสเตอร์ลงพื้น |
 | <img src="../assets/skills/4341000.png" width="28" height="28" alt="Phantom Blow" /> | **คลาส 4** | **Phantom Blow** | - | - | 900 วิ | - | กระหน่ำแทงมีดคู่ทะลวงเกราะบอส 6 Hit รัวเร็ว |
 | <img src="../assets/skills/4341009.png" width="28" height="28" alt="Blade Fury" /> | **คลาส 4** | **Blade Fury** | 315% | 6 Hit | ไม่มี (0s) | 1 ตัว | หมุนตัวฟันมีดคู่รอบทิศ 360 องศา สกิลฟาร์มหลัก |
 | <img src="../assets/skills/4341052.png" width="28" height="28" alt="Asura's Anger" /> | **Hyper** | **Asura's Anger** | 420% | 4 Hit | 60 วิ | 10 ตัว | แปลงเป็นพายุหมุนมีดอาชูร่า เจาะเกราะ 100% ละลายบอส |
@@ -724,6 +815,7 @@
 ---
 
 ### 36. Night Walker (ไนท์ วอล์กเกอร์) (Cygnus Knights)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** กรงเล็บ (Claw)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -743,6 +835,7 @@
 ---
 
 ### 37. Phantom (แฟนทอม) (Heroes)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** Cane (ไม้เท้ามีด)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -762,6 +855,7 @@
 ---
 
 ### 38. Cadena (คาเดนา) (Nova)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** โซ่ (Chain)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -781,6 +875,7 @@
 ---
 
 ### 39. Hoyoung (โฮยอง) (Anima)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** พัดวิเศษ (Ritual Fan)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -800,6 +895,7 @@
 ---
 
 ### 40. Khali (คาลี) (Flora)
+
 * **สเตตัสหลัก:** LUK | **อาวุธประจำตัว:** Chakram
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -820,7 +916,22 @@
 
 ## ⚓ 5. สายโจรสลัด (Pirates - 10 อาชีพ)
 
+**สายโจรสลัดมีทั้งหมด 10 อาชีพ ได้แก่:**
+1. [Buccaneer (บัคคาเนียร์) (Explorer)](#41-buccaneer-บัคคาเนียร์-explorer)
+2. [Corsair (คอร์แซร์) (Explorer)](#42-corsair-คอร์แซร์-explorer)
+3. [Cannoneer (แคนนอนเนียร์) (Explorer)](#43-cannoneer-แคนนอนเนียร์-explorer)
+4. [Thunder Breaker (ธันเดอร์ เบรกเกอร์) (Cygnus Knights)](#44-thunder-breaker-ธันเดอร์-เบรกเกอร์-cygnus-knights)
+5. [Mechanic (เมคานิก) (Resistance)](#45-mechanic-เมคานิก-resistance)
+6. [Xenon (ซีนอน) (Resistance)](#46-xenon-ซีนอน-resistance)
+7. [Shade (เฉด / อึนวอล) (Heroes)](#47-shade-เฉด-อึนวอล-heroes)
+8. [Angelic Buster (แองเจลิก บัสเตอร์) (Nova)](#48-angelic-buster-แองเจลิก-บัสเตอร์-nova)
+9. [Ark (อาร์ค) (Flora)](#49-ark-อาร์ค-flora)
+10. [Mo Xuan / Jett (โม่เสวียน / เจ็ต) (Other)](#50-mo-xuan-jett-โม่เสวียน-เจ็ต-other)
+
+---
+
 ### 41. Buccaneer (บัคคาเนียร์) (Explorer)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** สนับมือ (Knuckle)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -841,6 +952,7 @@
 ---
 
 ### 42. Corsair (คอร์แซร์) (Explorer)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** ปืนพก (Gun)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -861,6 +973,7 @@
 ---
 
 ### 43. Cannoneer (แคนนอนเนียร์) (Explorer)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** ปืนใหญ่ (Hand Cannon)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -880,6 +993,7 @@
 ---
 
 ### 44. Thunder Breaker (ธันเดอร์ เบรกเกอร์) (Cygnus Knights)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** สนับมือ (Knuckle)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -899,14 +1013,15 @@
 ---
 
 ### 45. Mechanic (เมคานิก) (Resistance)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** Gun (ขับหุ่นยนต์)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| <img src="../assets/skills/35001000.png" width="28" height="28" alt="Gatling Gun" /> | **คลาส 1** | **Gatling Gun** | - | - | - | - | หุ่นยนต์กราดยิงปืนกลแกตลิ่ง |
+| <img src="../assets/skills/35001000.png" width="28" height="28" alt="Gatling Gun" /> | **คลาส 1** | **Gatling Gun** | 130% | 4 Hit | ไม่มี (0s) | 1 ตัว | หุ่นยนต์กราดยิงปืนกลแกตลิ่ง |
 | <img src="../assets/skills/35101000.png" width="28" height="28" alt="Atomic Hammer" /> | **คลาส 2** | **Atomic Hammer** | - | - | - | - | หมัดหุ่นยนต์ทุบพื้นสร้างคลื่นช็อก |
 | <img src="../assets/skills/35111000.png" width="28" height="28" alt="Rocket Punch" /> | **คลาส 3** | **Rocket Punch** | - | - | - | - | ยิงหมัดจรวดพุ่งทะลวงศัตรู |
-| <img src="../assets/skills/35121000.png" width="28" height="28" alt="Heavy Salvo Plus" /> | **คลาส 4** | **Heavy Salvo Plus** | - | - | - | - | ขับหุ่น Tank ยิงจรวดและปืนกลรัวใส่บอส |
+| <img src="../assets/skills/35121000.png" width="28" height="28" alt="Heavy Salvo Plus" /> | **คลาส 4** | **Heavy Salvo Plus** | 390% | 6 Hit | ไม่มี (0s) | 1 ตัว | ขับหุ่น Tank ยิงจรวดและปืนกลรัวใส่บอส |
 | <img src="../assets/skills/35121005.png" width="28" height="28" alt="Robot Launcher: RM7" /> | **คลาส 4** | **Robot Launcher: RM7** | - | - | - | - | ติดตั้งป้อมปืนมิสไซล์ช่วยยิงอัตโนมัติ |
 | <img src="../assets/skills/35121052.png" width="28" height="28" alt="Distortion Bomb" /> | **Hyper** | **Distortion Bomb** | 350% | 2 Hit | 8 วิ | 8 ตัว | ยิงระเบิดบิดเบือนมิติ ดูดมอนสเตอร์เข้ามาทำดาเมจ |
 | <img src="../assets/skills/35121054.png" width="28" height="28" alt="Support Unit: H-EX" /> | **Hyper** | **Support Unit: H-EX** | - | - | - | - | หุ่นยนต์ซัพพอร์ต ฮีลเลือดและลด DEF บอส |
@@ -918,6 +1033,7 @@
 ---
 
 ### 46. Xenon (ซีนอน) (Resistance)
+
 * **สเตตัสหลัก:** STR / DEX / LUK | **อาวุธประจำตัว:** Whip Blade
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -937,6 +1053,7 @@
 ---
 
 ### 47. Shade (เฉด / อึนวอล) (Heroes)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** สนับมือ (Knuckle)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -957,13 +1074,14 @@
 ---
 
 ### 48. Angelic Buster (แองเจลิก บัสเตอร์) (Nova)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** Soul Shooter
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| <img src="../assets/skills/65001000.png" width="28" height="28" alt="Bubble Star" /> | **คลาส 1** | **Bubble Star** | - | - | - | - | ยิงกระสุนฟองสบู่ดวงดาว |
-| <img src="../assets/skills/65101000.png" width="28" height="28" alt="Sting Explosive" /> | **คลาส 2** | **Sting Explosive** | - | - | - | - | แทงกระสุนแสงระเบิดผลักมอนสเตอร์ |
-| <img src="../assets/skills/65111000.png" width="28" height="28" alt="Soul Seeker" /> | **คลาส 3** | **Soul Seeker** | - | - | - | - | ปล่อยลูกแก้วมังกรเด้งชิ่งไปมาทั่วหน้าจอ |
+| <img src="../assets/skills/65001000.png" width="28" height="28" alt="Bubble Star" /> | **คลาส 1** | **Bubble Star** | 500% | 1 Hit | ไม่มี (0s) | 6 ตัว | ยิงกระสุนฟองสบู่ดวงดาว |
+| <img src="../assets/skills/65101000.png" width="28" height="28" alt="Sting Explosive" /> | **คลาส 2** | **Sting Explosive** | 550% | 1 Hit | ไม่มี (0s) | 8 ตัว | แทงกระสุนแสงระเบิดผลักมอนสเตอร์ |
+| <img src="../assets/skills/65111000.png" width="28" height="28" alt="Soul Seeker" /> | **คลาส 3** | **Soul Seeker** | 320% | 2 Hit | ไม่มี (0s) | 2 ตัว | ปล่อยลูกแก้วมังกรเด้งชิ่งไปมาทั่วหน้าจอ |
 | <img src="../assets/skills/65121000.png" width="28" height="28" alt="Celestial Roar" /> | **คลาส 4** | **Celestial Roar** | - | - | - | - | คำรามเสียงดนตรีศักดิ์สิทธิ์ กวาดมอนสเตอร์ทั้งจอ สกิลฟาร์มหลัก |
 | <img src="../assets/skills/65121003.png" width="28" height="28" alt="Trinity" /> | **คลาส 4** | **Trinity** | 146% | 5 Hit | 60 วิ | 10 ตัว | คอมโบลำแสง 3 จังหวะยิงถล่มบอสเดี่ยว 6 Hit |
 | <img src="../assets/skills/65121052.png" width="28" height="28" alt="Superstar Spotlight" /> | **Hyper** | **Superstar Spotlight** | 600% | 3 Hit | 60 วิ | 15 ตัว | สปอตไลท์ซูเปอร์สตาร์ ส่องสว่างทำดาเมจรอบตัว |
@@ -976,6 +1094,7 @@
 ---
 
 ### 49. Ark (อาร์ค) (Flora)
+
 * **สเตตัสหลัก:** STR | **อาวุธประจำตัว:** Knuckle (แขนอสูร)
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
@@ -995,6 +1114,7 @@
 ---
 
 ### 50. Mo Xuan / Jett (โม่เสวียน / เจ็ต) (Other)
+
 * **สเตตัสหลัก:** DEX | **อาวุธประจำตัว:** สนับมือ / ปืน
 
 | ไอคอน | คลาส | ชื่อสกิล | ดาเมจ (%) | Hit | คูลดาวน์ | เป้าหมาย | บทบาท & จุดเด่น |
