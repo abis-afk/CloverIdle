@@ -74,6 +74,12 @@
 | <img src="../assets/bosses/boss_papulatus_mark.png" width="30" height="30" alt="Papulatus Mark" /> | **Papulatus Mark** | หน้ากากตา (Eye) | **Lv. 145** | **Chaos Papulatus เท่านั้น** | **ประดับตาเทพประจำเซ็ต!** (Normal ไม่ดรอป) ตีได้ถึง 20+ ดาว |
 | <img src="../assets/bosses/boss_guardian_angel_ring.png" width="30" height="30" alt="Guardian Angel Ring" /> | **Guardian Angel Ring** | แหวน (Ring) | **Lv. 160** | Guardian Angel Slime | แหวนเลเวลสูง สามารถสวมใส่ร่วมกับเซ็ตได้ |
 
+> 🌹 **สถานที่พบ NPC Ifia (การทำเควสต์แลก Noble Ifia's Ring):**  
+> * **แผนที่:** **Lion King's Castle : Rose Garden** (เข้าผ่านหอคอยที่ 5 ของปราสาทสิงโต El Nath)  
+> * **NPC ประจำจุด:** <img src="../assets/bosses/npc_ifia.png" height="50" alt="NPC Ifia" /> **NPC Ifia**  
+> * **วิธีเดินทาง:** ใช้ Maple Guide `[ U ]` วาร์ปมายัง Lion King's Castle หรือเดินจาก El Nath ทะลุประตูหอคอยที่ 5 สู่ Rose Garden  
+> ![แผนที่ Lion King's Castle และ Rose Garden](../assets/bosses/map_rose_garden.png)
+
 ---
 
 ### 3.2 เอฟเฟกต์โบนัสเซ็ต (Set Effects)
@@ -130,6 +136,12 @@
   3. **ดับเบิ้ลคลิกที่ชิ้นส่วนบอสชิ้นนั้นๆ** (หรือคุยกับ NPC ในแผนที่ Colossus Root Abyss)
   4. หน้าต่างระบบจะแสดงรายการอาวุธหรือชุดเกราะตามสายอาชีพของคุณ สามารถคลิกเลือกชิ้นที่ต้องการเพื่อรับไอเทมได้ทันที!
 
+> 🌳 **ข้อมูลแผนที่เมือง & NPC ประจำจุด:**  
+> * **แผนที่:** **Root Abyss : Colossal Root**  
+> * **NPC ประจำจุด:** <img src="../assets/bosses/npc_oko.png" height="50" alt="NPC Oko" /> **NPC Oko** (ร้านค้าแลกเหรียญและของรางวัล Root Abyss)  
+> * **วิธีเดินทาง:** เดินทางจากทางเข้าลับใน **Sleepywood** หรือกด Maple Guide `[ U ]` เลือกวาร์ปมายัง Root Abyss ได้ทันที  
+> ![แผนที่ Root Abyss: Colossal Root](../assets/bosses/map_root_abyss.png)
+
 ---
 
 ### ⚙️ 5.2 เซ็ต AbsoLab (Lv. 160)
@@ -141,16 +153,30 @@
    * **Extraordinary Energy Core Grade S:** ดรอปจากการกำจัดบอส **Lotus** (Normal หรือ Hard)
 2. **ขั้นตอนการแลก:**
    * นำ **Grade S 1 ชิ้น + Grade A 20 ชิ้น** ไปผสมเป็น <img src="../assets/bosses/token_absolab_coin.png" width="20" height="20" alt="AbsoLab Coin" /> **AbsoLab Coin** 1 เหรียญ กับ NPC **One-Eye** ในแผนที่ Haven
-   * ใช้ **AbsoLab Coin 2 เหรียญ** เพื่อแลกซื้อชิ้นส่วนชุดเกราะ (ถุงมือ, รองเท้า, ผ้าคลุม, หัวไหล่)
-   * ใช้ **AbsoLab Coin 5 เหรียญ** เพื่อแลกซื้อ **อาวุธ AbsoLab Weapon**
+   * ใช้ **AbsoLab Coin 2 เหรียญ** เพื่อแลกซื้อชิ้นส่วนชุดเกราะ (ถุงมือ, รองเท้า, ผ้าคลุม, หัวไหล่) กับ NPC **Three-Hands**
+   * ใช้ **AbsoLab Coin 5 เหรียญ** เพื่อแลกซื้อ **อาวุธ AbsoLab Weapon** กับ NPC **Three-Hands**
+
+> 🤖 **ข้อมูลแผนที่เมือง & NPC ประจำจุด (Scrapyard : Haven):**  
+> * **แผนที่:** **Scrapyard : Haven**  
+> * **NPC ประจำจุด:**  
+>   * <img src="../assets/bosses/npc_one_eye.png" height="50" alt="NPC One-Eye" /> **One-Eye:** NPC สำหรับผสมเหรียญ AbsoLab Coin  
+>   * <img src="../assets/bosses/npc_three_hands.png" height="50" alt="NPC Three-Hands" /> **Three-Hands:** NPC ร้านค้าจำหน่ายอุปกรณ์และอาวุธเซ็ต AbsoLab  
+> * **วิธีเดินทาง:** นั่ง Danger Zone Taxi จากเมือง **Edelstein** หรือกด Maple Guide `[ U ]` วาร์ปตรงมายัง Haven ได้ทันที  
+> ![แผนที่ Scrapyard: Haven](../assets/bosses/map_haven.png)
 
 #### 📍 เส้นทางที่ 2: Dark World Tree (Deserted Camp) - สายบอส Damien
 1. **วัตถุดิบที่ต้องใช้:**
    * **Faint Stigma Spirit Stone:** ได้รับจากการทำเควสต์ประจำสัปดาห์ใน Dark World Tree (Deserted Camp)
    * **Twisted Stigma Energy Piece:** ดรอปจากการกำจัดบอส **Damien** (Normal หรือ Hard)
 2. **ขั้นตอนการแลก:**
-   * นำ **Stigma Piece 1 ชิ้น + Spirit Stone 20 ชิ้น** ไปผสมเป็น <img src="../assets/bosses/token_stigma_coin.png" width="20" height="20" alt="Stigma Coin" /> **Stigma Coin** 1 เหรียญ กับ NPC **Three-Doors** หรือ **Kanto** ใน Abandoned Camp
+   * นำ **Stigma Piece 1 ชิ้น + Spirit Stone 20 ชิ้น** ไปผสมเป็น <img src="../assets/bosses/token_stigma_coin.png" width="20" height="20" alt="Stigma Coin" /> **Stigma Coin** 1 เหรียญ กับ NPC **Quartermaster Sakaro** ใน Abandoned Camp
    * อัตราการแลก: 2 เหรียญสำหรับชุดเกราะ และ 5 เหรียญสำหรับอาวุธ
+
+> 🌲 **ข้อมูลแผนที่เมือง & NPC ประจำจุด (Dark World Tree : Deserted Camp):**  
+> * **แผนที่:** **Dark World Tree : Deserted Camp**  
+> * **NPC ประจำจุด:** <img src="../assets/bosses/npc_quartermaster_sakaro.png" height="50" alt="NPC Quartermaster Sakaro" /> **Quartermaster Sakaro:** NPC สำหรับผสมเหรียญ Stigma Coin และร้านค้าแลกชุด/อาวุธ AbsoLab  
+> * **วิธีเดินทาง:** เดินทางผ่านทางออกขวาของ **Sleepywood (Humid Swamp)** หรือกด Maple Guide `[ U ]` สู่ Deserted Camp  
+> ![แผนที่ Dark World Tree: Deserted Camp](../assets/bosses/map_deserted_camp.png)
 
 ---
 
@@ -161,15 +187,27 @@
 * **วัตถุดิบ:**
   * **Butterfly Droplet Stone:** ดรอปจากการฟาร์มมอนสเตอร์ในแผนที่ Lachelein, Arcana, และ Morass
   * **Phantasma Shard:** ดรอปจากการกำจัดบอส **Lucid** (Normal หรือ Hard)
-* **NPC ที่รับแลก:** NPC **Dambrella** ในเมือง Lachelein
+* **NPC ที่รับแลก:** NPC **Kanto** ในเมือง Lachelein
 * **อัตราแลกเหรียญ:** นำ **Phantasma Shard 1 ชิ้น + Butterfly Droplet 9 ชิ้น** ➔ แลกเป็น <img src="../assets/bosses/token_phantasma_coin.png" width="20" height="20" alt="Phantasma Coin" /> **Phantasma Coin** 1 เหรียญ
+
+> 🎭 **ข้อมูลแผนที่เมือง & NPC ประจำจุด (Lachelein):**  
+> * **แผนที่:** **Lachelein : Lachelein Main Street**  
+> * **NPC ประจำจุด:** <img src="../assets/bosses/npc_kanto_lachelein.png" height="55" alt="NPC Kanto" /> **NPC Kanto:** ร้านค้าแลกเหรียญ Phantasma Coin และอาวุธ/เกราะ Arcane Umbra  
+> * **วิธีเดินทาง:** เดินทางผ่าน Arcane River (ต่อจาก Chu Chu Island) หรือวาร์ปผ่าน Maple Guide `[ U ]` (เลเวล 220+)  
+> ![แผนที่เมือง Lachelein: The Dreaming City](../assets/bosses/map_lachelein.png)
 
 #### 📍 เส้นทางที่ 2: Esfera (สายบอส Will)
 * **วัตถุดิบ:**
   * **Stone Cobweb Droplet:** ดรอปจากการฟาร์มมอนสเตอร์ในแผนที่ Esfera
   * **Arachno Shard:** ดรอปจากการกำจัดบอส **Will** (Normal หรือ Hard)
-* **NPC ที่รับแลก:** NPC **Piam** ในเมือง Esfera
+* **NPC ที่รับแลก:** NPC **Kanto** ในเมือง Esfera
 * **อัตราแลกเหรียญ:** นำ **Arachno Shard 1 ชิ้น + Cobweb Droplet 9 ชิ้น** ➔ แลกเป็น <img src="../assets/bosses/token_arachno_coin.png" width="20" height="20" alt="Arachno Coin" /> **Arachno Coin** 1 เหรียญ
+
+> 🌊 **ข้อมูลแผนที่เมือง & NPC ประจำจุด (Esfera):**  
+> * **แผนที่:** **Esfera : Base Camp**  
+> * **NPC ประจำจุด:** <img src="../assets/bosses/npc_kanto_esfera.png" height="55" alt="NPC Kanto" /> **NPC Kanto:** ร้านค้าแลกเหรียญ Arachno Coin และอาวุธ/เกราะ Arcane Umbra  
+> * **วิธีเดินทาง:** เดินทางผ่าน Arcane River (ต่อจาก Morass) หรือวาร์ปผ่าน Maple Guide `[ U ]` (เลเวล 235+)  
+> ![แผนที่ดินแดน Esfera: Origin Sea](../assets/bosses/map_esfera.png)
 
 #### 🛒 อัตราการแลกอุปกรณ์ Arcane Umbra:
 * **ชุดเกราะ (หมวก, เสื้อสูท, ถุงมือ, รองเท้า, ผ้าคลุม, หัวไหล่):** ใช้ **12 เหรียญ** ต่อชิ้น
@@ -177,3 +215,4 @@
 
 > 💡 **ทางลัดพิเศษใน Clover Idle Story:**  
 > ผู้เล่นสามารถคลิกที่ปุ่ม **Quick Move** บนมุมซ้ายบนของหน้าจอในเมืองหลัก หรือตรวจสอบในร้านค้าด่วน เพื่อเข้าสู่หน้าต่างแลกเปลี่ยนอุปกรณ์บอสได้โดยตรงโดยไม่ต้องเสียเวลาเดินข้ามแผนที่!
+
