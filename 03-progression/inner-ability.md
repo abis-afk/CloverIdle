@@ -1,4 +1,4 @@
-# 🌟 ระบบ Inner Ability (ความสามารถภายใน)
+﻿# 🌟 ระบบ Inner Ability (ความสามารถภายใน)
 
 **Inner Ability (ความสามารถภายใน)** คือระบบเสริมพลังพิเศษประจำตัวละครแบบถาวร โดยตัวละครสามารถปลดล็อคแถบพลังพิเศษได้สูงสุด **3 แถว** ซึ่งแต่ละแถวจะมอบค่าสเตตัสและคุณสมบัติพิเศษระดับสูง เช่น **ความเร็วโจมตี (Attack Speed +1), ดาเมจบอส (Boss Damage +20%), ขยายระยะเวลาบัฟ (Buff Duration +50%), โอกาสไม่ติดคูลดาวน์ (Cooldown Skip 20%), และอัตราการดรอปไอเทม/เงิน (Drop Rate / Meso +20%)**
 
@@ -185,3 +185,92 @@ flowchart TD
 * **แถวที่ 1 (Legendary):** **Item Drop Rate +20%**
 * **แถวที่ 2 (Unique):** **Meso Drop Rate +15%**
 * **แถวที่ 3 (Unique/Epic):** Damage to Normal Monsters +8% หรือ Attack/Stat เสริมความแรงให้มอนสเตอร์ตายใน 1 ฮิต (One-shot kill)
+
+---
+
+## 👑 8. สรุปแนวทาง Inner Ability แนะนำครบทั้ง 50 อาชีพ (All 50 Classes BiS Setup)
+
+เพื่อความสะดวกในการวางแผนรีออฟชั่น ด้านล่างนี้คือตารางสรุป **Inner Ability ที่เหมาะสมและคุ้มค่าที่สุด (Best in Slot - BiS)** สำหรับทุกอาชีพทั้ง 50 อาชีพใน Clover Idle Story:
+
+### 🛡️ 1. สายนักรบ (Warriors - 13 อาชีพ)
+
+| ลำดับ | อาชีพ | แถวที่ 1 (Legendary 🟢) | แถวที่ 2 & 3 (Unique/Epic 🟠) | เหตุผล & เทคนิคเชิงลึก |
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | **Hero** (ฮีโร่) | **Attack Speed +1 Level** | Boss Damage +10% / Atk +21 | ขวาน/ดาบสองมือติดช้า ต้องใช้ AS+1 ร่วมกับ Booster + Green Potion เพื่อแตะ Hard Cap (Speed 8) |
+| 2 | **Paladin** (พาลาดิน) | **Attack Speed +1 Level** | Boss Damage +10% / Buff Duration +38% | ตีเร็วขึ้นเพื่อรีดดาเมจ Blast และยืดระยะเวลาบัฟอมตะ Sacrosanctity / Divine Echo |
+| 3 | **Dark Knight** (ดาร์กไนท์) | **Buff Duration +50%** หรือ AS+1 | Boss Damage +10% / Crit Rate +20% / Atk +21 | **จำเป็นที่สุด:** Buff Duration ช่วยให้สถานะ Sacrifice คงอยู่เกิน 100% ทำให้กดทวน Gungnir ได้ไม่จำกัด |
+| 4 | **Dawn Warrior** (ดอว์น วอริเออร์) | **Boss Damage +20%** | Atk +21 / Crit Rate +20% / Item Drop +15% | ทำความเร็วโจมตีเต็ม Cap ได้จากสกิล Celestial Dance ของตัวเองอยู่แล้ว เน้นดาเมจบอสเต็มที่ |
+| 5 | **Mihile** (มิฮาเอล) | **Attack Speed +1 Level** | Buff Duration +38% / Boss Damage +10% | เพิ่มความเร็วในการโจมตีสวนกลับ และยืดระยะเวลากำแพงโล่ Shield of Light และ Queen of Tomorrow |
+| 6 | **Adele** (อเดล) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Crit Rate +20% | ความเร็วโจมตีแตะ Cap ได้ง่ายจากบัฟ เร่งดาเมจบอสและใช้ Cooldown Skip สุ่มรีดาบปัก Ruin |
+| 7 | **Kaiser** (ไคเซอร์) | **Attack Speed +1 Level** หรือ Buff +50% | Buff Duration +38% / Boss Damage +10% | ดาบสองมือต้องการ AS+1 หรือใช้ Buff Duration เพื่อยืดร่างมังกรทอง Final Form ให้นานที่สุด |
+| 8 | **Demon Slayer** (เดมอน สเลเยอร์) | **Boss Damage +20%** | Buff Duration +38% / Cooldown Skip 10% | ยืดระยะเวลาบัฟเงาโจมตีซ้ำสองเท่า Blue Blood และ Cooldown Skip ช่วยรีหมาสามหัว Cerberus |
+| 9 | **Demon Avenger** (เดมอน อเวนเจอร์) | **Boss Damage +20%** | Cooldown Skip 10% / Max HP +15% / Crit +20% | Cooldown Skip มีผลดีมากช่วยรีปาโล่ Nether Shield สองอันรัวๆ ป่วนทั้งแมพ และ Max HP ให้สเตตัสหลัก |
+| 10 | **Blaster** (บลาสเตอร์) | **Attack Speed +1 Level** | Boss Damage +10% / Crit Rate +20% / Atk +21 | **หัวใจหลัก:** บลาสเตอร์แคนเซิลอนิเมชัน Shotgun Punch หมัดปืนกลได้เร็วตามระดับ Attack Speed |
+| 11 | **Aran** (อารัน) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Crit Rate +20% | อารันตีเร็วเต็ม Cap อยู่แล้ว Cooldown Skip ช่วยสุ่มรี Adrenaline Generator และ Maha's Domain |
+| 12 | **Hayato** (ฮายาโตะ) | **Attack Speed +1 Level** | Boss Damage +10% / DEF +250 / Atk +21 | สกิล Shimada Heart แปลงค่า DEF กลายเป็นดาเมจมหาศาล ออฟชั่น DEF หรือ All Stats คุ้มค่ามาก |
+| 13 | **Zero** (ซีโร่) | **Attack Speed +1 Level** หรือ Boss 20% | Boss Damage +10% / Crit Rate +20% / Atk +21 | ช่วยให้ร่าง Beta (ดาบหนัก) ฟันได้คล่องตัวและทำคอมโบสลับร่าง Tag Attack ได้รวดเร็วที่สุด |
+
+---
+
+### 🔮 2. สายนักเวท (Magicians - 12 อาชีพ)
+
+| ลำดับ | อาชีพ | แถวที่ 1 (Legendary 🟢) | แถวที่ 2 & 3 (Unique/Epic 🟠) | เหตุผล & เทคนิคเชิงลึก |
+| :---: | :--- | :--- | :--- | :--- |
+| 14 | **Arch Mage (F/P)** (เมจไฟ/พิษ) | **Buff Duration +50%** | Cooldown Skip 10% / Boss Damage +10% | **จำเป็นสูงสุด:** บัฟ Infinity เพิ่ม Final Damage สูงขึ้นตามเวลา ยิ่งอยู่นานดาเมจยิ่งพุ่งทะลุปรอท |
+| 15 | **Arch Mage (I/L)** (เมจน้ำแข็ง/สายฟ้า) | **Buff Duration +50%** | Cooldown Skip 10% / Boss Damage +10% | ยืดเวลา Infinity สำหรับช่วงเบิร์สสายฟ้า Jupiter Thunder และ Cooldown Skip ช่วยรี Blizzard |
+| 16 | **Bishop** (บิชอป) | **Buff Duration +50%** | Boss Damage +10% / M.Atk +21 / Item Drop | ยืด Infinity และขยายเวลาบัฟปาร์ตี้ทั้งหมด (Holy Symbol, Advanced Bless, Pray) ให้ยาวนาน |
+| 17 | **Blaze Wizard** (เบลซ วิซาร์ด) | **Boss Damage +20%** | M.Atk +21 / Crit Rate +20% / Item Drop +15% | บอลเพลิง Orbital Flame แตะ Speed Cap ได้เอง เน้นอัดดาเมจบอสและพลังเวทเต็มพิกัด |
+| 18 | **Battle Mage** (แบทเทิลเมจ) | **Attack Speed +1 Level** | Boss Damage +10% / M.Atk +21 / Item Drop | นักเวทสายคลุกวงใน ตีเร็วขึ้นช่วยให้กดคอมโบฟาดไม้เท้าสลับ Teleport ตอดดาเมจได้ถี่ขึ้น |
+| 19 | **Evan** (อีวาน) | **Boss Damage +20%** | Cooldown Skip 10% / M.Atk +21 / Crit +20% | Cooldown Skip มีโอกาสรีคูลดาวน์สกิลคอมโบมังกรมิร์ ทำให้กดสกิลฟิวชั่นได้ต่อเนื่อง |
+| 20 | **Luminous** (ลูมินัส) | **Buff Duration +50%** | Boss Damage +10% / M.Atk +21 / Crit +20% | **หัวใจหลักของลูมินัส:** ยืดระยะเวลาโหมด Equilibrium (กึ่งแสงกึ่งมืด) ให้ยิง Death Scythe ยาวนาน |
+| 21 | **Illium** (อิลเลียม) | **Boss Damage +20%** | M.Atk +21 / Cooldown Skip 10% / Crit +20% | เน้นดาเมจบอสเป็นหลัก Cooldown Skip ช่วยรีสกิลคริสตัลระเบิดวงกว้าง |
+| 22 | **Lara** (ลาร่า) | **Boss Damage +20%** | Passive Skills +1 / M.Atk +21 / Item Drop | สกิลมังกรดินน้ำลมทำดาเมจแรงขึ้นจากบอส และ Passive +1 ช่วยเพิ่มบัฟรวมของคลาส 4 |
+| 23 | **Kinesis** (คิเนซิส) | **Boss Damage +20%** | M.Atk +21 / Crit Rate +20% / Item Drop +15% | พลังจิตเน้นดาเมจบอสเป็นอันดับ 1 บัฟคริติคอลเสริมให้สกิลยกหินทุบติดคริ 100% |
+| 24 | **Kanna** (คันนะ) | **Boss Damage +20%** | M.Atk +21 / Buff Duration +38% / Item Drop | เน้นดาเมจบอสและบัฟอาณาเขต ยืดระยะเวลาบัฟของจิ้งจอกฮาคุและวงเวทสนับสนุน |
+| 25 | **Beast Tamer** (บีสต์ เทมเมอร์) | **Passive Skills +1 Level** หรือ Boss 20% | Boss Damage +10% / Crit Rate +20% / M.Atk +21 | **คุ้มค่ามหาศาล:** BT มี Passive บัฟของสัตว์ทั้ง 4 ร่างที่ให้สเตตัสสูง การได้ +1 Level เพิ่มพลังทั้งตัวเองและปาร์ตี้ |
+
+---
+
+### 🏹 3. สายนักธนู (Archers - 7 อาชีพ)
+
+| ลำดับ | อาชีพ | แถวที่ 1 (Legendary 🟢) | แถวที่ 2 & 3 (Unique/Epic 🟠) | เหตุผล & เทคนิคเชิงลึก |
+| :---: | :--- | :--- | :--- | :--- |
+| 26 | **Bowmaster** (โบว์มาสเตอร์) | **Boss Damage +20%** | Atk +21 / Item Drop +15% / Meso Drop +15% | สปีดยิงลูกศรระรัวแตะขีดสุดอยู่แล้ว เน้นดาเมจบอสและพลังโจมตีแบนราบ |
+| 27 | **Marksman** (มาร์กสแมน) | **Attack Speed +1 Level** | Boss Damage +10% / Atk +21 / Crit Rate +20% | **จำเป็นมาก:** หน้าไม้ยิงช้าและดีเลย์สูง ต้องใช้ AS+1 ช่วยเร่งจังหวะยิง Snipe ให้เร็วขึ้นอย่างเห็นได้ชัด |
+| 28 | **Pathfinder** (พาธไฟน์เดอร์) | **Boss Damage +20%** | Atk +21 / Crit Rate +20% / Item Drop +15% | สกิลโบราณสลับยิง Cardinal Deluge / Burst แตะ Speed Cap ได้เอง เน้นพลังทำลายล้างบอส |
+| 29 | **Wind Archer** (วินด์ อาร์เชอร์) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Item Drop | Cooldown Skip ช่วยสุ่มรีคูลดาวน์สกิลพายุ Howling Gale และ Monsoon ให้กดใช้ได้ถี่ขึ้น |
+| 30 | **Wild Hunter** (ไวลด์ ฮันเตอร์) | **Boss Damage +20%** หรือ AS+1 | Cooldown Skip 10% / Atk +21 / Crit Rate +20% | เพิ่มดาเมจขี่เสือยิงปืนกล Wild Arrow Blast และ Cooldown Skip ช่วยรีสกิลเรียกฝูงเสือ Jaguar |
+| 31 | **Mercedes** (เมอร์เซเดส) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Item Drop +15% | Cooldown Skip ช่วยให้คอมโบควงสว่านเตะกลางอากาศ Wrath of Enlil ไหลลื่นต่อเนื่องไม่สะดุด |
+| 32 | **Kain** (เคน) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Item Drop +15% | Cooldown Skip มีประโยชน์มากกับสกิลสังหาร Malice ปลดปล่อยลูกศรแห่งความมืด |
+
+---
+
+### 🗡️ 4. สายโจร (Thieves - 8 อาชีพ)
+
+| ลำดับ | อาชีพ | แถวที่ 1 (Legendary 🟢) | แถวที่ 2 & 3 (Unique/Epic 🟠) | เหตุผล & เทคนิคเชิงลึก |
+| :---: | :--- | :--- | :--- | :--- |
+| 33 | **Night Lord** (ไนท์ลอร์ด) | **Boss Damage +20%** | Atk +21 / Item Drop +15% / Meso Drop +15% | กงจักรบินรวดเร็วเต็ม Cap อยู่แล้ว เน้นดาเมจบอสเพื่อระเบิดพลังมหาศาลคู่กับสกิล Spread Throw |
+| 34 | **Shadower** (ชาโดเวอร์) | **Attack Speed +1 Level** | Boss Damage +10% / Meso Drop +15% / Atk +21 | **หัวใจสำคัญ:** AS+1 ทำให้คอมโบ Assassinate สลับกดระเบิดเหรียญ Meso Explosion ทำงานเร็วและเนียนที่สุด |
+| 35 | **Dual Blade** (ดูอัล เบลด) | **Cooldown Skip 20%** หรือ Boss 20% | Boss Damage +10% / Buff Duration +38% / Atk +21 | Cooldown Skip ช่วยรี Final Cut (อมตะ+เพิ่มดาเมจ), Blade Clone, และ Sudden Raid ได้บ่อยมาก |
+| 36 | **Night Walker** (ไนท์ วอล์กเกอร์) | **Boss Damage +20%** | Atk +21 / Crit Rate +20% / Item Drop +15% | ดาวกระจายเงามืดปาเร็วเต็ม Cap เน้นดาเมจบอสเพื่อระเบิดพลังสังหารบอสเดี่ยว |
+| 37 | **Phantom** (แฟนทอม) | **Buff Duration +50%** | Crit Rate +20% / Boss Damage +10% / Atk +21 | **สำคัญที่สุด:** ยืดระยะเวลาสกิลที่ขโมยมา (Final Cut, Bullseye, Cross Surge) ให้แสดงผลยาวนานไม่หลุด |
+| 38 | **Cadena** (คาเดนา) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Crit Rate +20% | Cooldown Skip ช่วยสุ่มรีคูลดาวน์คลังแสงอาวุธทั้ง 8 ชนิด ทำให้ทำคอมโบต่อท่าได้ต่อเนื่อง |
+| 39 | **Hoyoung** (โฮยอง) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Item Drop +15% | Cooldown Skip มีผลกับสกิลมนต์สวรรค์และปฐพี ทำให้ร่ายคาถาทำลายล้างได้บ่อยครั้งขึ้น |
+| 40 | **Khali** (คาลี) | **Boss Damage +20%** | Atk +21 / Crit Rate +20% / Item Drop +15% | ดาบจักรมหาราชพุ่งฟันรวดเร็วอยู่แล้ว เน้นเพิ่มดาเมจบอสและพลังโจมตีกายภาพ |
+
+---
+
+### ⚓ 5. สายโจรสลัด (Pirates - 10 อาชีพ)
+
+| ลำดับ | อาชีพ | แถวที่ 1 (Legendary 🟢) | แถวที่ 2 & 3 (Unique/Epic 🟠) | เหตุผล & เทคนิคเชิงลึก |
+| :---: | :--- | :--- | :--- | :--- |
+| 41 | **Buccaneer** (บัคคาเนียร์) | **Attack Speed +1 Level** หรือ Boss 20% | Boss Damage +10% / Atk +21 / Item Drop +15% | สนับมือได้ประโยชน์จาก AS+1 ในการต่อย Octopunch และหมัดมังกร Lord of the Deep |
+| 42 | **Corsair** (คอร์แซร์) | **Boss Damage +20%** | Cooldown Skip 10% / Atk +21 / Item Drop +15% | ปืนพกยิงรัวเต็ม Cap เน้นดาเมจบอส และ Cooldown Skip ช่วยรีเรียกลูกเรือช่วยยิง |
+| 43 | **Cannoneer** (แคนนอนเนียร์) | **Attack Speed +1 Level** | Boss Damage +10% / Atk +21 / Crit Rate +20% | **จำเป็นมาก:** ปืนใหญ่มีความเร็วโจมตีพื้นฐานช้ามาก (Speed 8) การได้ AS+1 ช่วยลดดีเลย์ Cannon Barrage มหาศาล |
+| 44 | **Thunder Breaker** (ธันเดอร์ เบรกเกอร์) | **Boss Damage +20%** หรือ AS+1 | Atk +21 / Crit Rate +20% / Item Drop +15% | สกิลคอมโบเชื่อมต่อกันแคนเซิลดีเลย์ได้เอง เน้นดาเมจบอสและพลังโจมตี |
+| 45 | **Mechanic** (เมคานิก) | **Passive Skills +1** หรือ Buff +50% | Boss Damage +10% / Atk +21 / Item Drop +15% | Buff Duration ยืดเวลาหุ่นยนต์ติดตั้งและเสาบัฟ หรือใช้ Passive +1 เพื่อดันสเตตัสหุ่นยนต์คลาส 4 |
+| 46 | **Xenon** (ซีนอน) | **Boss Damage +20%** | All Stats +30 / Atk +21 / Buff Duration +38% | **เทคนิคพิเศษ:** ซีนอนคำนวณดาเมจจาก STR+DEX+LUK พร้อมกัน การได้ All Stats ในแถว 2 จึงคุ้มค่ากว่าอาชีพอื่น |
+| 47 | **Shade** (เฉด / อึนวอล) | **Attack Speed +1 Level** หรือ Boss 20% | **Critical Rate +20%** / Boss Damage +10% / Atk +21 | **จุดอ่อนเฉด:** อัตราคริติคอลพื้นฐานต่ำมาก แถวที่ 2 จำเป็นต้องมี Crit Rate +20% ช่วยเสริม |
+| 48 | **Angelic Buster** (แองเจลิก บัสเตอร์) | **Boss Damage +20%** | Atk +21 / Crit Rate +20% / Item Drop +15% | ปืนวิเศษยิงแรงเต็ม Cap เน้นดาเมจบอสและพลังโจมตีเพื่อระเบิด Trinity และ Soul Seeker |
+| 49 | **Ark** (อาร์ค) | **Attack Speed +1 Level** หรือ Boss 20% | Cooldown Skip 10% / Atk +21 / Item Drop +15% | AS+1 ช่วยให้คอมโบต่อท่าในร่าง Spectral Form รวดเร็วลื่นไหล และ Cooldown Skip ช่วยรี Charge Drive |
+| 50 | **Mo Xuan / Jett** (โม่เสวียน / เจ็ต) | **Boss Damage +20%** หรือ AS+1 | Atk +21 / Crit Rate +20% / Item Drop +15% | เน้นดาเมจบอสเป็นหลักเพื่อเพิ่มพลังทำลายล้างของกระบวนท่ากำลังภายในและการระเบิดพลังดวงดาว |
