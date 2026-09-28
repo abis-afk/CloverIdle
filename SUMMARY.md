@@ -13,6 +13,7 @@
 * [ระบบ Auto Play (@autoplay / @bot)](and-systems/auto-play.md)
 * [ระบบสัตว์เลี้ยง & สกิลทั้งหมด](and-systems/pet-system.md)
 * [Merchant Blessing (พรแห่งพ่อค้า)](and-systems/merchant-blessing.md)
+* [🎟️ ระบบ Battle Pass](and-systems/battle-pass.md)
 
 ## ⚔️ สายอาชีพ & สกิล (50 Classes)
 
